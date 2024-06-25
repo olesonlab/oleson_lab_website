@@ -1,6 +1,0 @@
----
-title: "{{< bi bar-chart-line-fill >}} Data"
-format: html
----
-
-As data are compiled for our projects, they will be posted here.
