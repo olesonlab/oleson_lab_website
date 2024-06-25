@@ -65,9 +65,7 @@ website:
 
 format:
   html:
-    theme: 
-      - litera
-      - assets/styles/styles.scss
+    theme: [litera, assets/styles/styles.scss]
     fontsize: 12pt
     page-layout: full
     link-external-newwindow: true
