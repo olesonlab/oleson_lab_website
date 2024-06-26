@@ -35,10 +35,10 @@ website:
       - icon: twitter-x
         href: https://twitter.com/@Olesonlab
     foreground: rgba(232, 232, 232, 0.95)
-    background: rgba(0, 126, 147, 0.55)
+    background: rgba(0, 100, 117, 0.55)
   page-footer: 
     foreground: rgba(232, 232, 232, 0.95)
-    background: rgba(0, 126, 147, 0.55)
+    background: rgba(0, 100, 117, 0.55)
     right: |
       <strong>Oleson Lab</strong><br>
       <strong>Follow Us</strong>:

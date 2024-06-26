@@ -2,12 +2,6 @@
 title: "{{< bi search >}} Research"
 ---
 
-<style>
-  body, html {
-    overflow: hidden;
-  }
-</style>
-
 ## Themes
 
 My group currently has a number of interdisciplinary projects under three research themes:

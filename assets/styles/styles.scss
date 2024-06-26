@@ -14,8 +14,14 @@ a {
   color: $link-color !important; // Ensure the color is applied
 }
 
-.index-center {
-  background-color: rgba(0, 126, 147, 0.55); /* Background color */
+.tab-content,
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  background-color: rgba(0, 100, 117, 0.55);
+}
+
+.index-center,
+{
+  background-color: rgba(0, 100, 117, 0.55); /* Background color */
   padding: 28px; /* Adjust the value as needed */
   border-radius: 15px; /* Adjust the value as needed for roundness */
   border-top: 1px solid rgba(232, 232, 232, 1); /* Top border style */
