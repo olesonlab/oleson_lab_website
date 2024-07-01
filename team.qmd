@@ -58,8 +58,7 @@ In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ec
 
 ::: columns
 ::: {.column width="40%"}
-<center>
-  <img src="/assets/images/2023_ashley-lowe-mackenzie_headshot.png" width="90%" class="team-img" />
+<center><img src="/assets/images/2023_ashley-lowe-mackenzie_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 
@@ -83,14 +82,25 @@ Ashley is an applied environmental economist specializing in the intersection of
 
 #### Lansing Perng
 
-<!-- <center> -->
-<!-- <img src="/assets/images/" width="60%" /><br><br> -->
-<!-- [{{< fa solid id-card size=LARGE >}}](https://lansingyperng.wixsite.com/home) -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/lansing-perng-5944348b/) -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- [{{< fa brands github size=LARGE >}}](https://github.com/lyperng) -->
-<!-- <!-- </center> -->
+::: columns
+::: {.column width="60%"}
+<br><br>
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
+
+<center>
+[{{< fa solid id-card size=LARGE >}}](https://lansingyperng.wixsite.com/home)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/lansing-perng-5944348b/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands github size=LARGE >}}](https://github.com/lyperng)
+</center>
+:::
+::: {.column width="40%"}
+<center>
+<img src="/assets/images/placeholder-image.png" width="90%" class="team-img" /><br><br>
+</center>
+:::
+:::
 
 ### PhD Students
 
@@ -98,13 +108,8 @@ Ashley is an applied environmental economist specializing in the intersection of
 
 ::: columns
 ::: {.column width="40%"}
-
-<center>
-  <img src="/assets/images/2023_ela-ural_headshot (1).png" width="90%" class="team-img" />
-</center>
-
+<center><img src="/assets/images/2023_ela-ural_headshot.png" width="90%" class="team-img" /></center>
 :::
-
 ::: {.column width="60%"}
 <br><br><br>
 Ela is a PhD student out of the Department of Economics at University of Hawai'i at Mānoa. Her research primarily focuses on agriculture and natural resources, with particular interest in the role of social institutions. She works under the Oleson Lab's coastal ecosystem accounting team on the valuation of fisheries for the main Hawaiian islands.
@@ -118,12 +123,6 @@ Ela is a PhD student out of the Department of Economics at University of Hawai'i
 #### Louis Chua <br>
 
 ::: columns
-::: {.column width="40%"}
-<center>
-<img src="/assets/images/2023_louis-chua_heashot.png" width="90%" class="team-img" />
-</center>
-:::
-
 ::: {.column width="60%"}
 <br><br><br>
 Louis is a PhD Candidate in the Department of Natural Resources and Environmental Management (NREM) at University of Hawai'i at Mānoa. He is currently working on Natural Capital Accounting (NCA) and ecosystem valuation projects across the Main Hawaiian Islands.
@@ -138,25 +137,35 @@ Louis is a PhD Candidate in the Department of Natural Resources and Environmenta
 [{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Kirsten_Oleson)
 </center>
 :::
+::: {.column width="40%"}
+<center><img src="/assets/images/2023_louis-chua_heashot.png" width="90%" class="team-img" /></center>
+:::
 :::
 
 #### Sydney Campbell <br>
 
-<!-- <center> -->
-<!-- [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/sydney-campbell-b4428419b/)  -->
-<!-- </center> -->
+::: columns
+::: {.column width="40%"}
+<center>
+<img src="/assets/images/2024_sydney-campbell_headshot.jpg" width="90%" class="team-img" /><br><br>
+</center>
+:::
+
+::: {.column width="60%"}
+<br><br>
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
+
+<center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/sydney-campbell-b4428419b/)
+</center>
+:::
+:::
 
 ### Master's of Science Students
 
 #### Ann Nyambega <br>
 
 ::: columns
-::: {.column width="40%"}
-<center>
-<img src="/assets/images/2023_ann-nyambega_headshot.png" width="90%" class="team-img" /><br><br>
-</center>
-:::
-
 ::: {.column width="60%"}
 <br>
 Ann, an MS student, specializes in employing Theory of Change methodology for conducting localized monitoring and evaluation of Ecosystem-based Adaptation projects in Hawaii. Holding a bachelor's degree in Environmental Planning and Management, she brings a wealth of experience in facilitating the implementation of climate adaptation projects in the Kenyan context. Ann's research underscores her commitment to advancing and enhancing sustainable localized solutions and enhancing resilience within the socio-ecological landscape.
@@ -165,46 +174,95 @@ Ann, an MS student, specializes in employing Theory of Change methodology for co
 [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ann-nyambega-813530166/) 
 </center>
 :::
+::: {.column width="40%"}
+<center>
+<img src="/assets/images/2023_ann-nyambega_headshot.png" width="90%" class="team-img" /><br><br>
+</center>
+:::
+:::
+
+### Master's of Science Visiting Intern
+
+#### Marion Graftieaux <br>
+
+::: columns
+::: {.column width="40%"}
+<center>
+<img src="/assets/images/2024_marion-graftieaux_headshot.jpg" width="90%" class="team-img" /><br><br>
+</center>
+:::
+
+::: {.column width="60%"}
+<br><br>
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
+
+<center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/marion-graftieaux-335b85216/) 
+</center>
+:::
 :::
 
 ### Master's of Environmental Management Students
 
 #### Kayla Hodges
 
-<!-- <center> -->
-<!-- [{{< fa solid id-card size=LARGE >}}](https://acaptainslog.com/) -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/kaptainkayla/)  -->
-<!-- </center> -->
+::: columns
+::: {.column width="60%"}
+<br><br><br>
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
 
-### Undergraduate Students
+<center>
+[{{< fa solid id-card size=LARGE >}}](https://acaptainslog.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/kaptainkayla/)
+</center>
+:::
+::: {.column width="40%"}
+<br><center><img src="/assets/images/2024_kayla-hodges_headshot.jpg" width="90%" class="team-img" /><br><br>
+</center>
+:::
+:::
 
-### Research Assistants
-
-#### Alemarie Ceria <br>
+#### Ruivaldo Freitas Viana
 
 ::: columns
 ::: {.column width="40%"}
 <br><center>
-<img src="/assets/images/2023_alemarie-ceria_headshot.png" width="90%" class="team-img" /><br><br>
+<img src="/assets/images/2024_ruivaldo-viana_headshot.png" width="90%" class="team-img" /><br><br>
 </center>
 :::
 
 ::: {.column width="60%"}
-<br>
-Alemarie, the lab's Data Coordinator, has a B.A. in Economics from the University of Hawaii at Manoa. With nearly three years of experience in the lab, she actively engages in data management, collection, and analysis across multiple projects. She also develops visualizations for reports, presentations, and papers, ensuring research reproducibility. Alemarie co-authored two publications: ["Detecting Religion from Space: Nyepi Day in Bali"](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub) in *Remote Sensing Applications: Society and Environment* (2021) and "[Exploring the influence of activity participation on the economic value of nature-based recreation in the Sierra Nevada](https://www.sciencedirect.com/science/article/pii/S0301479724010673?via%3Dihub)" in *Journal of Environmental Management* (2024).
+<br><br>
+Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and a minor in Visual Communication from Luther College. Recently, he worked as a Research Associate for the Center for Behavior and the Environment at the nonprofit organization Rare. There, he supported primary and secondary research on the intersection of behavioral science, climate change, and entertainment media. He is passionate about exploring multifaceted solutions that balance economic development and ecological conservation in island nations.
 
 <center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/alemarieceria/) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< fa brands github size=LARGE >}}](https://github.com/alemarieceria)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< fa brands orcid size=LARGE >}}](https://orcid.org/0000-0002-3039-7323) 
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Alemarie-Ceria)
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ruivaldo-viana/)
 </center>
 :::
 :::
+
+#### Zoe Sidana Bunnath
+
+::: columns
+::: {.column width="60%"}
+<br>
+Zoe Sidana Bunnath graduated from the Royal University of Phnom Penh with a Bachelor of Development Studies in Natural Resource Management and Development and a Bachelor of English for Professional Communication. Zoe had worked as a Research Assistant at the Cambodia Development Resource Institute, involved in multiple projects on climate change, renewable energy, and natural resources governance at the Center for Natural Resources and Environment. Additionally, she has prior experience in the conservation field, having led a BirdLife International-Young Conservation Leader's project to support Sarus Crane conservation at Boeung Perk Lapouv and Anlung Pring Protected Landscapes. Passionate about lifelong learning and sustainable development, she envisions a world where environmental sustainability and economic development coexist harmoniously.
+
+<center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/zoe-sidana-bunnath/?originalSubdomain=kh)
+</center>
+:::
+::: {.column width="40%"}
+<br><center>
+<img src="/assets/images/2024_zoe-sidana-bunnath_headshot.png" width="90%" class="team-img" /><br><br>
+</center>
+:::
+:::
+
+### Undergraduate Students
+
+### Research Assistants
 
 #### Kate Crowell <br>
 
@@ -214,7 +272,6 @@ Alemarie, the lab's Data Coordinator, has a B.A. in Economics from the Universit
 <img src="/assets/images/2023_kate-crowell_headshot.png" width="90%" class="team-img" /><br><br>
 </center>
 :::
-
 ::: {.column width="60%"}
 <br>
 Kate is a research assistant in the Oleson Ecological Economics Lab, working on starting a Donut Economics Action Lab, in addition to continuing collaborative research on the Genuine Progress Indicator with the state.
@@ -227,6 +284,48 @@ She joined the lab in Spring 2021, where she started as an undergraduate researc
 :::
 
 #### Whitney Goodell
+
+::: columns
+::: {.column width="60%"}
+<br><br><br>
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
+
+<center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/whitney-goodell-26abb62a2/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Whitney-Goodell)
+</center>
+:::
+::: {.column width="40%"}
+<br><center><img src="/assets/images/2024_whitney-goodell_headshot.jpeg" width="90%" class="team-img" /><br><br>
+</center>
+:::
+:::
+
+### Data Coordinator
+
+#### Alemarie Ceria <br>
+
+::: columns
+::: {.column width="40%"}
+<center>
+<img src="/assets/images/2023_alemarie-ceria_headshot.png" width="90%" class="team-img" /><br><br>
+</center>
+:::
+::: {.column width="60%"}
+Alemarie has a B.A. in Economics from the University of Hawaii at Manoa. With nearly three years of experience in the lab, she actively engages in data management, collection, and analysis across multiple projects. She also develops visualizations for reports, presentations, and papers, ensuring research reproducibility. Alemarie co-authored two publications: ["Detecting Religion from Space: Nyepi Day in Bali"](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub) in *Remote Sensing Applications: Society and Environment* (2021) and "[Exploring the influence of activity participation on the economic value of nature-based recreation in the Sierra Nevada](https://www.sciencedirect.com/science/article/pii/S0301479724010673?via%3Dihub)" in *Journal of Environmental Management* (2024).
+
+<center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/alemarieceria/) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands github size=LARGE >}}](https://github.com/alemarieceria)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands orcid size=LARGE >}}](https://orcid.org/0000-0002-3039-7323) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Alemarie-Ceria)
+</center>
+:::
+:::
 
 ## Alumni
 
@@ -247,7 +346,7 @@ Carlo is now a professor in Italy.
 Megan brought her decision analysis expertise to the lab.
 She now works for the government of West Australia.
 
-#### Mia Comeros
+#### Mia Comeros (2022-2024)
 
 #### Anders Dugstad (2023-2024)
 
@@ -262,7 +361,7 @@ Hla was hired by an engineering consulting firm in Honolulu.
 
 Jutha was a Royal Thai scholar who investigated conflict resolution in Thai marine protected areas.
 
-#### Alohi Nakachi
+#### Alohi Nakachi (2018-2024)
 
 ### Master's of Science Students
 
@@ -296,6 +395,8 @@ She now works at the Division of Aquatic Resources.
 Rachael focused on applying principles from Structured Decision Making to community-scale fire management in Hawai'i.
 
 #### Lysbeth Koster (2023-2024)
+
+Lysbeth's MSc thesis project focused on the biogoechemical dynamics that influence aquaculture productivity of Hawaiian fishpond, and how future management can incorporate the impact of climate change.
 
 ### Master's of Environmental Management Students
 

@@ -1,7 +1,32 @@
+// Quarto custom theming: https://quarto.org/docs/output-formats/html-themes.html#custom-themes
+// Color Palette Finder: https://r-graph-gallery.com/color-palette-finder
+// Color Palette: {rcartocolor} R package
+// #C4E6C3FF, rgba(196, 230, 195, 1)
+// #96D2A4FF, rgba(150, 210, 164, 1)
+// #6DBC90FF, rgba(109, 188, 144, 1)
+// #4DA284FF, rgba(77, 162, 132, 1)
+// #36877AFF, rgba(54, 135, 122, 1)
+// #266B6EFF, rgba(38, 107, 110, 1)
+// #1D4F60FF, rgba(29, 79, 96, 1)
+
+$mint-cream: rgba(196, 230, 195, 1);
+$celadon: rgba(150, 210, 164, 1);
+$medium-aquamarine: rgba(109, 188, 144, 1);
+$viridian: rgba(77, 162, 132, 1);
+$jungle-green: rgba(54, 135, 122, 1);
+$teal-blue: rgba(38, 107, 110, 1);
+$prussian-blue: rgba(29, 79, 96, 1);
+
+
+
+
+
+
 /*-- scss:defaults --*/
-$link-color: rgb(114, 191, 201);
-$body-bg: rgba(0, 126, 147, 1);
-$body-color: rgba(232, 232, 232, 1);
+$body-bg: $mint-cream;
+$body-color: $jungle-green;
+$link-color: $prussian-blue;
+
 
 /*-- scss:rules --*/
 // Change the color of links to the lighter ocean blue
@@ -16,12 +41,12 @@ a {
 
 .tab-content,
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
-  background-color: rgba(0, 100, 117, 0.55);
+  background-color: rgba(0, 100, 117, 0.4);
 }
 
 .index-center,
 {
-  background-color: rgba(0, 100, 117, 0.55); /* Background color */
+  background-color: rgba(0, 100, 117, 0.4); /* Background color */
   padding: 28px; /* Adjust the value as needed */
   border-radius: 15px; /* Adjust the value as needed for roundness */
   border-top: 1px solid rgba(232, 232, 232, 1); /* Top border style */
@@ -37,6 +62,7 @@ a {
 
 #quarto-back-to-top {
   box-shadow: 0 .2rem .5rem rgb(232, 232, 232), 0 0 .05rem rgb(232, 232, 232);
+  background-color: rgba(0, 100, 117, 0.4);
   color: $link-color;
   border: 1px solid rgba(232, 232, 232, 1) !important; /* Add this line for the border */
 }
@@ -48,7 +74,9 @@ a {
 
 /* Change page footer border color */
 .footer {
-  border-top: 1px solid rgba(255, 255, 255, 1) !important; /* White border */
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgba(255, 255, 255, 1);
 }
 
 // Change the line under headers

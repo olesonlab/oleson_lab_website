@@ -1,0 +1,192 @@
+// Quarto custom theming: https://quarto.org/docs/output-formats/html-themes.html#custom-themes
+// scss variables: https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
+// Color Palette Finder: https://r-graph-gallery.com/color-palette-finder
+// Source: {rcartocolor} R package
+// #C4E6C3FF, rgba(196, 230, 195, 1)
+// #96D2A4FF, rgba(150, 210, 164, 1)
+// #6DBC90FF, rgba(109, 188, 144, 1)
+// #4DA284FF, rgba(77, 162, 132, 1)
+// #36877AFF, rgba(54, 135, 122, 1)
+// #266B6EFF, rgba(38, 107, 110, 1)
+// #1D4F60FF, rgba(29, 79, 96, 1)
+
+/*-- scss:defaults --*/
+
+// Color Palette
+$mint-cream: rgba(196, 230, 195, 1);
+$celadon: rgba(150, 210, 164, 1);
+$medium-aquamarine: rgba(109, 188, 144, 1);
+$viridian: rgba(77, 162, 132, 1);
+$jungle-green: rgba(54, 135, 122, 1);
+$teal-blue: rgba(38, 107, 110, 1);
+$prussian-blue: rgba(29, 79, 96, 1);
+
+// Tester 
+$bright-red: rgba(255, 0, 0, 1);
+
+// Defaults
+$text-color: $celadon;
+$body-color: $text-color;
+$navbar-fg: $text-color;
+$footer-fg: $text-color;
+
+$bg-color: $teal-blue;
+$body-bg: $bg-color;
+$navbar-bg: $bg-color;
+$footer-bg: $bg-color;
+
+$header-and-border-color: $medium-aquamarine;
+
+$link-color: $mint-cream;
+
+/*-- scss:rules --*/
+
+// Website title
+.navbar-brand {
+  font-style: italic !important;
+  font-weight: bold !important;
+  font-size: 30px !important;
+}
+
+// Headers
+h1, h2, h3, h4, h5, h6 {
+  color: $header-and-border-color;
+}
+
+// Back-to-top button
+#quarto-back-to-top {
+  color: $link-color;
+  background-color: $bg-color; // Set the background color
+  padding: 10px 20px; // Add some padding for better appearance
+  border-radius: 5px; // Optional: Add rounded corners
+  outline: 1px solid $link-color; // Add an outline with the desired color and width
+  cursor: pointer; // Change the cursor to a pointer on hover
+
+  &:hover {
+    color: $bg-color;
+    background-color: $link-color;
+  }
+}
+
+// Borders
+h2, .h2, .navbar {
+    border-bottom: 1px solid $header-and-border-color;
+    padding-bottom: .5rem;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, 
+.sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 3px solid $link-color;
+}
+
+.nav-footer {
+    border-top: 1px solid $header-and-border-color;
+    padding-bottom: .5rem;
+}
+
+div.quarto-about-trestles .about-contents {
+    border-left: solid 1px $header-and-border-color;
+    padding-left: 1.5em;
+}
+
+.team-img {
+  border-radius: 50%; /* Ensure the image is a circle */
+  overflow: hidden; /* This is optional but can help with some layouts */
+  object-fit: cover; /* This will ensure the image is scaled to cover the entire circle */
+  object-position: center; /* This will center the image within the circle */
+  border: 1px solid $header-and-border-color; /* Apply border to all sides except top */
+  box-shadow: 0 0 0 1px $header-and-border-color; /* Add a box shadow to enhance the border */
+}
+
+// Active text
+.sidebar nav[role=doc-toc] ul>li>a.active, 
+.sidebar nav[role=doc-toc] ul>li>ul>li>a.active,
+.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link.show {
+  font-weight: bold;
+  color: $link-color !important;
+}
+
+.sidebar nav[role=doc-toc]>ul a {
+    border-left: 1px solid $link-color;
+}
+
+.navbar-dark, .navbar[data-bs-theme="dark"] {
+    --bs-navbar-hover-color: rgba(196, 230, 195, 1);
+    --bs-navbar-brand-hover-color: rgba(196, 230, 195, 1);
+    --bs-navbar-active-color: rgba(196, 230, 195, 1);
+    border-bottom: 1px solid $header-and-border-color;
+}
+
+// Tab content - Research page
+.tab-content {
+    margin-top: 0px;
+    border-left: $header-and-border-color 1px solid;
+    border-right: $header-and-border-color 1px solid;
+    border-bottom: $header-and-border-color 1px solid;
+    margin-left: 0;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.nav-tabs {
+    --bs-nav-tabs-border-width: 1px;
+    --bs-nav-tabs-border-color: rgba(109, 188, 144, 1);
+    --bs-nav-tabs-border-radius: 0.25rem;
+    --bs-nav-tabs-link-hover-border-color: rgba(109, 188, 144, 1) rgba(109, 188, 144, 1) rgba(109, 188, 144, 1);
+    --bs-nav-tabs-link-active-bg: $teal-blue;
+    border-bottom: 1px solid $header-and-border-color;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  color: $link-color;
+  border-color: #6dbc90;
+}
+
+// Article buttons on Publications page
+.btn-outline-light {
+    --bs-btn-color: #C4E6C3FF;
+    --bs-btn-border-color: #C4E6C3FF;
+    --bs-btn-hover-color: #266B6EFF;
+    --bs-btn-hover-bg: #C4E6C3FF;
+    --bs-btn-hover-border-color: #266B6EFF;
+    border-radius: .25rem;
+}
+
+// Homepage about section
+.index-center {
+  display: flex; 
+  align-items: center; // Center items vertically
+  justify-content: center; // Center items horizontally
+  height: 70vh; // Full height of the viewport
+  margin: 0; // Remove any default margin
+  
+  @media (max-width: 870px) {
+    padding-top: 55px;
+    padding-right: 60px;
+    padding-left: 60px;
+    flex-direction: column; // Stack items vertically
+    text-align: center; // Center text for smaller screens
+    height: auto;
+  }
+}
+
+.index-center-title {
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+  
+  @media (max-width: 870px) {
+    margin-bottom: 10px; // Adjust spacing for smaller screens
+  }
+}
+
+.index-text {
+  padding-right: 20px;
+  
+  @media (max-width: 870px) {
+    padding-right: 0; // Remove padding for smaller screens
+    margin-bottom: 20px; // Add some space below the text
+  }
+}

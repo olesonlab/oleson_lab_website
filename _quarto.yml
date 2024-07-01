@@ -24,9 +24,9 @@ website:
       - href: data.qmd
         text: Data
         icon: bar-chart-line-fill
-      # - href: contact.qmd
-      #   text: Contact
-      #   icon: telephone-fill
+      - href: contact.qmd
+        text: Contact
+        icon: telephone-fill
     right:
       - icon: envelope-fill
         href: mailto:koleson@hawaii.edu
@@ -35,10 +35,10 @@ website:
       - icon: twitter-x
         href: https://twitter.com/@Olesonlab
     foreground: rgba(232, 232, 232, 0.95)
-    background: rgba(0, 100, 117, 0.55)
+    background: rgba(0, 100, 117, 0.4)
   page-footer: 
     foreground: rgba(232, 232, 232, 0.95)
-    background: rgba(0, 100, 117, 0.55)
+    background: rgba(0, 100, 117, 0.4)
     right: |
       <strong>Oleson Lab</strong><br>
       <strong>Follow Us</strong>:
@@ -65,7 +65,13 @@ website:
 
 format:
   html:
-    theme: [litera, assets/styles/styles.scss]
+    theme:
+      light:
+        - litera
+        - assets/styles/light-theme.scss
+      dark: 
+        - litera
+        - assets/styles/dark-theme.scss
     fontsize: 12pt
     page-layout: full
     link-external-newwindow: true
