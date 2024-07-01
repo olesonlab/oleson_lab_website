@@ -11,19 +11,6 @@
   text-align: center;
 }
 
-.divider {
-  position: relative;
-  text-align: center;
-  padding-top: 20px;
-}
-
-.divider::before {
-  content: '· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·';
-  display: block;
-  text-align: center;
-  width: 100%;
-}
-
 @media (max-width: 425px) {
   .columns {
     display: flex !important;

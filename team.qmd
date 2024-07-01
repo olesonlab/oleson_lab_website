@@ -6,6 +6,21 @@ format:
     css: assets/styles/team-styles.scss
 ---
 
+<style>
+.divider {
+  position: relative;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.divider::before {
+  content: '· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·';
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+</style>
+
 ## Principal Investigator
 
 ### Kirsten L.L. Oleson <br>
