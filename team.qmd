@@ -83,8 +83,7 @@ Ashley is an applied environmental economist specializing in the intersection of
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Lansing Perng <br>
 
@@ -129,8 +128,7 @@ Ela is a PhD student out of the Department of Economics at University of Hawai'i
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Louis Chua <br>
 
@@ -155,8 +153,7 @@ Louis is a PhD Candidate in the Department of Natural Resources and Environmenta
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Sydney Campbell <br>
 
@@ -249,8 +246,7 @@ Ann, an MS student, specializes in employing Theory of Change methodology for co
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Ruivaldo Freitas Viana <br>
 
@@ -272,8 +268,7 @@ Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Zoe Sidana Bunnath <br>
 
@@ -321,8 +316,7 @@ She joined the lab in Spring 2021, where she started as an undergraduate researc
 :::
 :::
 
-::: {.divider}
-:::
+<div class="divider"></div>
 
 #### Whitney Goodell <br>
 
