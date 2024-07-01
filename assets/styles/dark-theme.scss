@@ -190,3 +190,14 @@ div.quarto-about-trestles .about-contents {
     margin-bottom: 20px; // Add some space below the text
   }
 }
+
+.highlights {
+  h3 {
+    padding-top: 100px;
+    font-size: 1.25rem;
+    background-color: rgba(109, 188, 144, 0.3);
+    align-items: center;
+    display: flex;
+    padding: 10px;
+  }
+}
