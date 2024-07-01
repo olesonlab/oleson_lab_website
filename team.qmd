@@ -3,23 +3,8 @@ title: "{{< bi people-fill >}} Team"
 format: 
   html:
     toc-depth: 4
-    css: assets/styles/team-styles.scss
+    css: assets/styles/team-styles.css
 ---
-
-<style>
-.divider {
-  position: relative;
-  text-align: center;
-  padding-top: 20px;
-}
-
-.divider::before {
-  content: '· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·';
-  display: block;
-  text-align: center;
-  width: 100%;
-}
-</style>
 
 ## Principal Investigator
 
