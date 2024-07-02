@@ -49,6 +49,12 @@ $link-color: $mint-cream;
   font-size: 30px !important;
 }
 
+@media (max-width: 350px) {
+  .navbar-brand {
+    font-size: 25px !important;
+  }
+}
+
 // Headers
 h1, h2, h3, h4, h5, h6 {
   color: $header-and-border-color;
@@ -224,6 +230,15 @@ div.quarto-about-trestles .about-contents {
     border-color: #C4E6C3FF;
     color: #C4E6C3FF;
     opacity: 100%;
+}
+
+.quarto-title .quarto-categories .quarto-category {
+    padding: .25em .75em !important;
+    font-size: .65em !important;
+    text-transform: uppercase !important;
+    border: solid 1px !important;
+    border-radius: .25rem !important;
+    opacity: 1 !important;
 }
 
 .quarto-grid-item .card-title {
