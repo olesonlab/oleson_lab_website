@@ -391,7 +391,11 @@ She now works for the government of West Australia.
 
 #### Mia Comeros (2022-2024)
 
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt.*
+
 #### Anders Dugstad (2023-2024)
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt.*
 
 ::: {.highlights}
 ### PhD Students
@@ -407,6 +411,8 @@ Hla was hired by an engineering consulting firm in Honolulu.
 Jutha was a Royal Thai scholar who investigated conflict resolution in Thai marine protected areas.
 
 #### Alohi Nakachi (2018-2024)
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt.*
 
 ### Master's of Science Students
 
