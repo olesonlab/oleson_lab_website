@@ -1,3 +1,9 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # Resources
 
 All of the following is what was used to build our website:
@@ -72,7 +78,11 @@ Icons:
 -   [Google Fonts](https://fonts.google.com/)
 -   [Quarto Sass
     Variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables)
--   [Quarto HTML Custom Theming](https://quarto.org/docs/output-formats/html-themes.html#custom-themes)
+-   [Quarto HTML Custom
+    Theming](https://quarto.org/docs/output-formats/html-themes.html#custom-themes)
 -   [Coolors Color Palette Generator](https://coolors.co/)
 -   [Crop Image to a Circle](https://crop-circle.imageonline.co/)
--   [Color Palette Finder](https://r-graph-gallery.com/color-palette-finder)
+-   [Color Palette
+    Finder](https://r-graph-gallery.com/color-palette-finder)
+-   [Quarto Document
+    Listings](https://quarto.org/docs/websites/website-listings.html#overview)
