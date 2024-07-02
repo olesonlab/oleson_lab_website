@@ -6,30 +6,58 @@ title: "{{< bi search >}} Research"
 
 My group currently has a number of interdisciplinary projects under three research themes:
 
-::: {.panel-tabset}
-
-### {{< bi lightbulb-fill >}} 
+::: panel-tabset
+### {{< bi lightbulb-fill >}}
 
 <h4>Social-ecological systems modeling, valuation, and decision science</h4>
 
-How will environmental changes (i.e., land use change, climate change, ocean acidification, invasive species) impact the ecosystem goods and services provided by Hawaiʻi’s ecosystems, and what are the consequence for human wellbeing?
+How will environmental changes (i.e., land use change, climate change, ocean acidification, invasive species) impact the ecosystem goods and services provided by Hawaiʻi's ecosystems, and what are the consequence for human wellbeing?
 
-How do land management practices affecting erosion, groundwater recharge, and water quality impact ecosystem services across the watershed, from mountain ridge to coral reef? Where are there trade-offs and win-win opportunities? How can we apply economics and decision science to make better decisions?
+How do land management practices affecting erosion, groundwater recharge, and water quality impact ecosystem services across the watershed, from mountain ridge to coral reef?
+Where are there trade-offs and win-win opportunities?
+How can we apply economics and decision science to make better decisions?
 
-### {{< bi currency-dollar >}} 
+### {{< bi currency-dollar >}}
 
 <h4>Natural capital and green accounting</h4>
 
-What is the true progress of Hawaii, measured using the Genuine Progress Indicator? What stocks of natural capital does Hawaii have, and what ecosystem services flow from these?
+What is the true progress of Hawaii, measured using the Genuine Progress Indicator?
+What stocks of natural capital does Hawaii have, and what ecosystem services flow from these?
 
-### {{< bi water >}} 
+### {{< bi water >}}
 
 <h4>Marine management</h4>
 
-What are the socio-economic impacts of Palau’s National Marine Sanctuary?
-
+What are the socio-economic impacts of Palau's National Marine Sanctuary?
 :::
 
-## Support and Recognition
+## Support and Recognition[^1]
 
-My lab’s research has been supported by NOAA, USGS, the Pacific Island Climate Adaptation Science Center, USDA, National Geographic Pristine Seas, the Moore Foundation, Ulupono Initiative, the Hawaiʻi State Department of Health, the Hawaiʻi Department of Economic Development, Business, and Tourism, and others. Most recently, I was awarded a Pew Marine Fellowship.
+[^1]: Notes:
+
+    -   **NOAA**: National Oceanic and Atmospheric Administration
+    -   **USGS**: U.S. Geological Survey
+    -   **DBEDT**: Department of Business, Economic Development, and Tourism
+    -   **DLNR**: Department of Land and Natural Resources
+    -   **DAR**: Division of Aquatic Resources
+    -   **NIFA**: National Institute of Food and Agriculture
+    -   **DoH**: Department of Health
+    -   **PICASC**: Pacific Islands Climate Adaptation Science Center
+    -   **PNMS**: Palau National Marine Sanctuary
+    -   **CRCP**: Coral Reef Conservation Program
+    -   **NGS**: National Geographic Society
+    -   **DOI**: Department of Interior
+    -   **PICSC**: Pacific Island Climate Science Center
+    -   **DoD**: Department of Defense
+    -   **USACE**: U.S. Army Corps of Engineers
+    -   **IEA**: Integrated Ecosystem Assessment
+    -   **WRRC**: Water Resources Research Center
+    -   **HIHWNMS**: Hawaiian Islands Humpback Whale National Marine Sanctuary
+    -   **SPREP**: Secretariat of the Pacific Regional Environment Program
+    -   **UH**: University of Hawaiʻi
+    -   **CPO**: Climate Program Office
+    -   **OAP**: Ocean Acidification Program
+    -   **NFWF**: National Fish and Wildlife Foundation
+    -   **SKG**: Saltonstall-Kennedy Grant
+
+The research conducted by my lab has received substantial support from various esteemed organizations. As Principal Investigator (PI), our work has been funded by the NOAA Sea Grant College Program, Pew Charitable Trusts, NOAA Climate Program, State of Hawaiʻi DBEDT, Ulupono Initiative, PICASC, Conservation International, PNMS, NOAA CRCP, USDA NIFA (McIntire Stennis), NGS Pristine Seas, DOI PICSC, DoD USACE, NOAA Kona IEA, USGS WRRC, NOAA HIHWNMS, and SPREP. Additionally, as co-Principal Investigator (co-PI) or co-Investigator (co-I), our research has been supported by the Hawaii DLNR, USDA, University of Alabama, UH Sea Grant, NOAA CPO, NOAA OAP, NFWF, USDA NIFA, State of Hawaiʻi DoH, NOAA Sea Grant College Program, NOAA SKG, Moore Foundation, and NOAA CRCP. Most recently, I was awarded a Pew Marine Fellowship.

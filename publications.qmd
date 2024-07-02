@@ -19,11 +19,8 @@ format: html
 
 [^1]: Denotations:
 
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors.
-        Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-
+    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
     -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-
     -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
 
 ### 2024
@@ -459,11 +456,8 @@ International trade in meat.
 
 [^2]: Denotations:
 
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors.
-        Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-
+    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
     -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-
     -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
 
 ### 2017
@@ -519,11 +513,8 @@ and Resource Mgmt., The Chinese University of Hong Kong, Hong Kong:China.
 
 [^3]: Denotations:
 
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors.
-        Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-
+    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
     -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-
     -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
 
 ### 2023
@@ -628,11 +619,8 @@ Case study for The Economics of Ecosystems and Biodiversity (TEEB) Global Atlas.
 
 [^4]: Denotations:
 
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors.
-        Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-
+    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
     -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-
     -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
 
 ### 2019
