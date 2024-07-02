@@ -192,3 +192,101 @@ h1, h2, h3, h4, h5, h6 {
     padding: 10px;
   }
 }
+
+#logo {
+  padding-top: 30px;
+}
+
+@media (max-width: 320px) {
+  .data-buttons {
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center; /* Center align the buttons */
+    display: flex;
+  }
+}
+
+.quarto-title .quarto-categories {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: .5em;
+    column-gap: .4em;
+    padding-bottom: .5em;
+    margin-top: .75em;
+    border-color: #1D4F60FF;
+    color: #1D4F60FF;
+    opacity: 100%;
+}
+
+.quarto-grid-item .card-title {
+    margin-bottom: 20px;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+    color: $prussian-blue;
+    border: solid 1px $prussian-blue;
+    border-radius: .25rem;
+    text-transform: uppercase;
+    font-size: .65em;
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-top: .15em;
+    padding-bottom: .15em;
+    cursor: pointer;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+.quarto-grid-item .card-text-small {
+    font-size: .8em;
+    color: $jungle-green;
+    padding: 7px;
+}
+
+.card {
+    --bs-card-spacer-y: 1rem;
+    --bs-card-spacer-x: 1rem;
+    --bs-card-title-spacer-y: 0.5rem;
+    --bs-card-title-color: ;
+    --bs-card-subtitle-color: ;
+    --bs-card-border-width: 1px;
+    --bs-card-border-color: #266B6EFF;
+    --bs-card-border-radius: 0.25rem;
+    --bs-card-box-shadow: ;
+    --bs-card-inner-border-radius: calc(0.25rem - 1px);
+    --bs-card-cap-padding-y: 0.5rem;
+    --bs-card-cap-padding-x: 1rem;
+    --bs-card-cap-bg: rgba(52, 58, 64, 0.25);
+    --bs-card-cap-color: ;
+    --bs-card-height: ;
+    --bs-card-color: ;
+    --bs-card-bg: rgb(196, 230, 195);
+    --bs-card-img-overlay-padding: 1rem;
+    --bs-card-group-margin: 0.75rem;
+    position: relative;
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    min-width: 0;
+    height: var(--bs-card-height);
+    color: var(--bs-body-color);
+    word-wrap: break-word;
+    background-color: var(--bs-card-bg);
+    background-clip: border-box;
+    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
+    border-radius: var(--bs-card-border-radius);
+}
+
+#quarto-appendix.default .quarto-appendix-bibtex,
+#quarto-appendix.default .quarto-appendix-citeas {
+    border: solid 1px #266B6EFF;
+    border-radius: .25rem;
+}
+
+#quarto-appendix.default {
+    border-top: 1px solid #266B6EFF;
+}
+
+#quarto-appendix.default .quarto-appendix-bibtex code.sourceCode {
+  color: $body-color;
+}

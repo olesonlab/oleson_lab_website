@@ -1,0 +1,15 @@
+{
+  "hash": "81a1e97cb988415116deb43814dcbcf3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Linking land and sea through an ecological-economic model of coral reef recreation\"\ndescription: \" \"\nauthors:\n  - name: Kirsten Oleson\n  - name: Kenneth J Bagstad\n  - name: Carlo Fezzi\n  - name: Mary Donovan\n  - name: Kim Falinski\n  - name: Kelvin Gorospe\n  - name: Hla Htun\n  - name: Joey Lecky\n  - name: Ferdinando Villa\n  - name: Tamara Wong\n  - name: Megan Barnes\ndate: 2020-07-30\nbibliography: references.bib\ncategories: [USGS, Bayesian Belief Network, Coral Reefs, Land-Sea Interactions, Recreational Ecosystem Services, Hawai‘i, Region 7 USGS, Aquatic Biology, Ecology, Environmental Health, Hydrology, Land Use Change, Water Quality, Water Resources, Wildlife Biology, USGS Science Data Catalog (SDC)]\nimage: map.png\n---\n\n::: {.cell layout-align=\"center\"}\n\n:::\n\n\n\n<center>\n![](usgs-logo.png){.rounded width=\"40%\"} <br><br><br><br>\n[{{< fa file-arrow-down >}}  Download](https://doi.org/10.5066/P9RO57E8){.btn .btn-outline-light}\n</center>\n\n## Summary\n\nCoastal zones are popular recreational areas that substantially contribute to social welfare. Managers can use information about specific environmental features that people appreciate, and how these might change under different management scenarios, to spatially target actions to areas of high current or potential value. We explored how snorkelers’ experience would be affected by separate and combined land and marine management actions in West Maui, Hawaiʻi, using a Bayesian Belief Network (BBN) and a spatially explicit ecosystem services model. The BBN simulates recreational attractiveness by combining snorkelers’ preferences for coastal features with experts’ opinions on ecological dynamics, snorkeler behavior, and management actions. A choice experiment with snorkelers elucidated their preferences for sites with better ecological and water-quality conditions. Linking the economic elicitation to the spatially explicit BBN to evaluate land-sea management scenarios provides specific guidance on where and how to act in West Maui to maximize ecosystem service returns. Improving coastal water quality through sediment runoff and cesspool effluent reductions, and enhancing coral reef ecosystem conditions, positively affected overall snorkeling attractiveness across the study area, but with differential results at specific sites. The highest improvements were attained through joint land-sea management, driven by strong effects of efforts to increase fish abundance and reduce sediment, however, management priorities at individual beaches varied.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,5 +1,15 @@
 ---
 title: "{{< bi bar-chart-line-fill >}} Data"
+description: "As data are compiled for our projects, they will be posted here."
+page-layout: full
+listing:
+  contents: data
+  feed: true
+  type: grid
+  sort: "date desc"
+  grid-item-align: left
+  image-placeholder: assets/images/placeholder-image.png
+  categories: numbered
+  date-format: iso
 ---
 
-As data are compiled for our projects, they will be posted here.

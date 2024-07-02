@@ -61,6 +61,8 @@ website:
   back-to-top-navigation: true
   open-graph: 
     site-name: "Oleson Lab Website"
+  site-url: "https://olesonlab.github.io/"  # Replace with your actual site URL
+  repo-url: "https://github.com/olesonlab/olesonlab.github.io" 
   
 
 format:

@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="As data are compiled for our projects, they will be posted here.">
 
 <title>Oleson Lab –  Data</title>
 <style>
@@ -30,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,10 +72,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<meta property="og:title" content="Oleson Lab -  Data">
-<meta property="og:description" content="">
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Oleson Lab" href="data.xml" data-external="1"><meta property="og:title" content="Oleson Lab -  Data">
+<meta property="og:description" content="As data are compiled for our projects, they will be posted here.">
 <meta property="og:site_name" content="Oleson Lab Website">
 </head>
 
@@ -152,20 +213,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Aquatic Biology">Aquatic Biology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Bayesian Belief Network">Bayesian Belief Network <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Coral Reefs">Coral Reefs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ecology">Ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Environmental Health">Environmental Health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Hawai‘i">Hawai‘i <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Hydrology">Hydrology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Land Use Change">Land Use Change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Land-Sea Interactions">Land-Sea Interactions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Recreational Ecosystem Services">Recreational Ecosystem Services <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Region 7 USGS">Region 7 USGS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="USGS">USGS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="USGS Science Data Catalog (SDC)">USGS Science Data Catalog (SDC) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Water Quality">Water Quality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Water Resources">Water Resources <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wildlife Biology">Wildlife Biology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title"><i class="bi-bar-chart-line-fill " style="" role="img" aria-hidden="true"></i> Data</h1>
 </div>
 
+<div>
+  <div class="description">
+    As data are compiled for our projects, they will be posted here.
+  </div>
+</div>
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -177,11 +243,92 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>As data are compiled for our projects, they will be posted here.</p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="USGS,Bayesian Belief Network,Coral Reefs,Land-Sea Interactions,Recreational Ecosystem Services,Hawai‘i,Region 7 USGS,Aquatic Biology,Ecology,Environmental Health,Hydrology,Land Use Change,Water Quality,Water Resources,Wildlife Biology,USGS Science Data Catalog (SDC)" data-listing-date-sort="1596103200000" data-listing-file-modified-sort="1719913760650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="227">
+<a href="./data/2020-07-30_usgs_oleson-et-al_data-release/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./data/2020-07-30_usgs_oleson-et-al_data-release/map.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Linking land and sea through an ecological-economic model of coral reef recreation
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('USGS'); return false;">
+USGS
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Bayesian Belief Network'); return false;">
+Bayesian Belief Network
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Coral Reefs'); return false;">
+Coral Reefs
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Land-Sea Interactions'); return false;">
+Land-Sea Interactions
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Recreational Ecosystem Services'); return false;">
+Recreational Ecosystem Services
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Hawai‘i'); return false;">
+Hawai‘i
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Region 7 USGS'); return false;">
+Region 7 USGS
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Aquatic Biology'); return false;">
+Aquatic Biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Ecology'); return false;">
+Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Environmental Health'); return false;">
+Environmental Health
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Hydrology'); return false;">
+Hydrology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Land Use Change'); return false;">
+Land Use Change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Water Quality'); return false;">
+Water Quality
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Water Resources'); return false;">
+Water Resources
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Wildlife Biology'); return false;">
+Wildlife Biology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('USGS Science Data Catalog (SDC)'); return false;">
+USGS Science Data Catalog (SDC)
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+2020-07-30
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -418,7 +565,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/olesonlab\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

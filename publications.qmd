@@ -674,22 +674,3 @@ Economically Valuable.
 SAMUDRA Report, Issue No. 66: International Collective in Support of Fishworkers.
 
 [PDF](https://www.icsf.net/wp-content/uploads/2022/12/Samudra_Madagascar.pdf){.btn .btn-outline-light}
-
-## Data Releases[^5]
-
-[^5]: Denotations:
-
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors.
-        Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-
-    -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-
-    -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
-
-### 2020
-
-**Oleson, K.L.L.**, K.J. Bagstad, [C. Fezzi]{.underline}, [M.D. Barnes]{.underline}, *M.K. Donovan*, [K.A. Falinski]{.underline}, K.D. Gorospe, [H. Htun]{.underline}, [J. Lecky]{.underline}, F. Villa, [T. Wong]{.underline} (2020).
-Data release for Linking land and sea through an ecological-economic model of coral reef recreation: U.S.
-Geological Survey data release, https://doi.org/10.5066/P9RO57E8.
-
-[Data Release](https://doi.org/10.5066/P9RO57E8){.btn .btn-outline-light}
