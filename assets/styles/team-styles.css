@@ -60,7 +60,7 @@ div.column {
 }
 
 .divider::before {
-  content: '· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·';
+  content: '· · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·';
   display: block;
   text-align: center;
   width: 100%;
