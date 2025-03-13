@@ -15,13 +15,13 @@ format: html
 
 <!-- ::: -->
 
-## Refereed Publications[^1]
+*Denotations*:
 
-[^1]: Denotations:
+- I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
+- To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
+- In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
 
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-    -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-    -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
+## Refereed Publications
 
 ### 2024
 
@@ -452,13 +452,7 @@ International trade in meat.
 
 [Article](https://doi.org/10.1579/0044-7447(2007)36%5B622:ITIMTT%5D2.0.CO;2){.btn .btn-outline-light}
 
-## Book Chapters[^2]
-
-[^2]: Denotations:
-
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-    -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-    -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
+## Book Chapters
 
 ### 2017
 
@@ -509,13 +503,7 @@ and Resource Mgmt., The Chinese University of Hong Kong, Hong Kong:China.
 
 [PDF](https://www.commissiemer.nl/docs/mer/diversen/international_experience_on_sea.pdf#page=125){.btn .btn-outline-light}
 
-## Refereed Technical Reports[^3]
-
-[^3]: Denotations:
-
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-    -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-    -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
+## Refereed Technical Reports
 
 ### 2023
 
@@ -615,13 +603,7 @@ Hawaiʻi State Environmental Council's Annual Report.
 Taking an ecosystem service perspective in Velondriake Locally Managed Marine Area.
 Case study for The Economics of Ecosystems and Biodiversity (TEEB) Global Atlas.
 
-## Technical Reports, Manager Reports, Working Papers[^4]
-
-[^4]: Denotations:
-
-    -   I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-    -   To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-    -   In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
+## Technical Reports, Manager Reports, Working Papers
 
 ### 2019
 

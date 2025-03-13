@@ -9,8 +9,8 @@
 <link>https://olesonlab.github.io/data.html</link>
 <atom:link href="https://olesonlab.github.io/data.xml" rel="self" type="application/rss+xml"/>
 <description>As data are compiled for our projects, they will be posted here.</description>
-<generator>quarto-1.5.26</generator>
-<lastBuildDate>Thu, 30 Jul 2020 10:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Thu, 30 Jul 2020 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Linking land and sea through an ecological-economic model of coral reef recreation</title>
   <link>https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/</link>
@@ -38,14 +38,14 @@
   title = {Linking Land and Sea Through an Ecological-Economic Model of
     Coral Reef Recreation},
   date = {2020-07-30},
-  url = {https://olesonlab.github.io//data/2020-07-30_usgs_oleson-et-al_data-release},
+  url = {https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-l._l._oleson2020" class="csl-entry quarto-appendix-citeas">
 L. L. Oleson, Kirsten, Kenneth J. Bagstad, Carlo Fezzi, Megan D. Barnes,
 Mary K. Donovan, Kim A. Falinski, Kelvin D. Gorospe, et al. 2020.
 <span>“Linking Land and Sea Through an Ecological-Economic Model of
-Coral Reef Recreation.”</span> July 30, 2020. <a href="https://olesonlab.github.io//data/2020-07-30_usgs_oleson-et-al_data-release">https://olesonlab.github.io//data/2020-07-30_usgs_oleson-et-al_data-release</a>.
+Coral Reef Recreation.”</span> July 30, 2020. <a href="https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/">https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/</a>.
 </div></div></section></div> ]]></description>
   <category>USGS</category>
   <category>Bayesian Belief Network</category>
@@ -64,7 +64,7 @@ Coral Reef Recreation.”</span> July 30, 2020. <a href="https://olesonlab.githu
   <category>Wildlife Biology</category>
   <category>USGS Science Data Catalog (SDC)</category>
   <guid>https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/</guid>
-  <pubDate>Thu, 30 Jul 2020 10:00:00 GMT</pubDate>
+  <pubDate>Thu, 30 Jul 2020 00:00:00 GMT</pubDate>
   <media:content url="https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/map.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>
