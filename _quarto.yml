@@ -24,6 +24,9 @@ website:
       - href: data.qmd
         text: Data
         icon: bar-chart-line-fill
+      - href: support_our_research.qmd
+        text: Support Our Research
+        icon: bag-heart-fill
       - href: contact.qmd
         text: Contact
         icon: telephone-fill
