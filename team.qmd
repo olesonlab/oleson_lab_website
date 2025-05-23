@@ -11,7 +11,7 @@ format:
 ### Kirsten L.L. Oleson <br>
 
 <center>
-  <img src="/assets/images/2023_kirsten-oleson_headshot.png" width="45%" class="team-img" />
+  <img src="/assets/images/2023_kirsten_oleson_headshot.png" width="45%" class="team-img" />
 </center><br>
 
 I am an interdisciplinary sustainability scientist. My overarching goal is to ensure that the value of nature is captured in national, state, and community decision-making. I employ tools from economics, social science, ecology, and decision analysis to provide rigorous foundations for discussions of what trade-offs societies are willing to make in the name of increasing short-term economic productivity. I engage with national and state policy makers and local communities over a wide range of resource management, economic development, and conservation issues that are of direct and urgent relevance to the state of Hawaiʻi and other Pacific Islands, such as food security, climate adaptation, and sustainable economic growth. I teach the graduate core courses, as well as a graduate policy analysis class.
@@ -41,7 +41,7 @@ I serve on numerous advisory committees, including for the United Nations Global
 ::: columns
 ::: {.columns}
 ::: {.column #img}
-<center><img src="/assets/images/2025_ashley-lowe-mackenzie_headshot.png" width="90%" class="team-img" />
+<center><img src="/assets/images/2025_ashley_lowe_mackenzie_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 ::: {.column #text}
@@ -82,7 +82,7 @@ Lansing is a postdoctoral fellow specializing in modeling social-ecological syst
 </center>
 :::
 ::: {.column #img-right}
-<center><img src="/assets/images/2024_lansing-perng_headshot.png" width="90%" class="team-img" />
+<center><img src="/assets/images/2024_lansing_perng_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 :::
@@ -110,7 +110,7 @@ Louis is a PhD Candidate in the Department of Natural Resources and Environmenta
 </center>
 :::
 ::: {.column #img-right}
-<center><img src="/assets/images/2023_louis-chua_heashot.png" width="90%" class="team-img" /></center>
+<center><img src="/assets/images/2023_louis_chua_heashot.png" width="90%" class="team-img" /></center>
 :::
 :::
 :::
@@ -118,6 +118,30 @@ Louis is a PhD Candidate in the Department of Natural Resources and Environmenta
 ::: {.highlights}
 ### Master's of Science Students
 :::
+
+#### Lara Noren <br>
+
+::: columns
+::: {.columns}
+::: {.column #img-right}
+<center><img src="/assets/images/2025_lara_noren_headshot.png" width="90%" class="team-img" />
+</center>
+:::
+::: {.column #text}
+Lara is pursuing a master's degree in Natural Resource and Environmental Management at the University of Hawai’i at Mānoa. She is interested in the role environmental economics plays in natural resource management policies, especially in nearshore marine environments, such as coral reefs. Formerly, Lara was a Susan L. Williams National Coral Reef Management Fellow working to identify innovative funding solutions to coral reef management challenges with the State of Hawai’i, Division of Aquatic Resources. She possesses a Bachelors of Science in Marine Biology from the University of North Carolina Wilmington. 
+
+<br><center>
+[{{< fa solid id-card size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands linkedin size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands github size=LARGE >}}]()
+</center>
+:::
+:::
+:::
+
+<div class="divider"></div>
 
 #### Ann Nyambega <br>
 
@@ -132,61 +156,15 @@ Ann, an MS student, specializes in employing Theory of Change methodology for co
 :::
 ::: {.column #img-right}
 <center>
-<img src="/assets/images/2023_ann-nyambega_headshot.png" width="90%" class="team-img" />
+<img src="/assets/images/2023_ann_nyambega_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 :::
-:::
-
-::: {.highlights}
-### Visiting Scholars/Interns
 :::
 
 ::: {.highlights}
 ### Master's of Environmental Management Students
 :::
-
-#### Kayla Hodges <br>
-
-::: columns
-::: {.columns}
-::: {.column #text}
-Kayla Hodges is investigating how women rangers in Asia and Latin America impact ranger-community relationships and conservation outcomes.
-
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](http://www.linkedin.com/in/kghodges)
-</center>
-:::
-::: {.column #img-right}
-<center><img src="/assets/images/2024_kayla-hodges_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-:::
-:::
-
-<div class="divider"></div>
-
-#### Ruivaldo Freitas Viana <br>
-
-::: columns
-::: {.columns}
-::: {.column #img}
-<center>
-<img src="/assets/images/2024_ruivaldo-viana_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-
-::: {.column #text}
-Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and a minor in Visual Communication from Luther College. Recently, he worked as a Research Associate for the Center for Behavior and the Environment at the nonprofit organization Rare. There, he supported primary and secondary research on the intersection of behavioral science, climate change, and entertainment media. He is passionate about exploring multifaceted solutions that balance economic development and ecological conservation in island nations.
-
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ruivaldo-viana/)
-</center>
-:::
-:::
-:::
-
-<div class="divider"></div>
 
 #### Zoe Sidana Bunnath <br>
 
@@ -201,7 +179,7 @@ Zoe Sidana Bunnath graduated from the Royal University of Phnom Penh with a Bach
 :::
 ::: {.column #img-right}
 <center>
-<img src="/assets/images/2024_zoe-sidana-bunnath_headshot.png" width="90%" class="team-img" />
+<img src="/assets/images/2024_zoe_sidana_bunnath_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 :::
@@ -224,30 +202,7 @@ Helen is a MS student in Natural Resources and Environmental Management at the U
 :::
 ::: {.column #img-right}
 <center>
-<img src="/assets/images/2025_helen-hastedt_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-:::
-:::
-
-<!-- ### Undergraduate Students -->
-
-::: {.highlights}
-### Research Assistants
-:::
-
-#### Elanur Ural <br>
-
-::: columns
-::: {.columns}
-::: {.column #img}
-<center><img src="/assets/images/2023_ela-ural_headshot.png" width="90%" class="team-img" /></center>
-:::
-::: {.column #text}
-Ela is a PhD student out of the Department of Economics at University of Hawai'i at Mānoa. Her research primarily focuses on agriculture and natural resources, with particular interest in the role of social institutions. She works under the Oleson Lab's coastal ecosystem accounting team on the valuation of fisheries for the main Hawaiian islands.
-
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/elanur-ural/) 
+<img src="/assets/images/2025_helen_hastedt_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 :::
@@ -255,13 +210,65 @@ Ela is a PhD student out of the Department of Economics at University of Hawai'i
 
 <div class="divider"></div>
 
+#### Kayla Hodges <br>
+
+::: columns
+::: {.columns}
+::: {.column #text}
+Kayla Hodges is investigating how women rangers in Asia and Latin America impact ranger-community relationships and conservation outcomes.
+
+<br><center>
+[{{< fa brands linkedin size=LARGE >}}](http://www.linkedin.com/in/kghodges)
+</center>
+:::
+::: {.column #img-right}
+<center><img src="/assets/images/2024_kayla_hodges_headshot.png" width="90%" class="team-img" />
+</center>
+:::
+:::
+:::
+
+<div class="divider"></div>
+
+#### Ruivaldo Freitas Viana <br>
+
+::: columns
+::: {.columns}
+::: {.column #img}
+<center>
+<img src="/assets/images/2024_ruivaldo_viana_headshot.png" width="90%" class="team-img" />
+</center>
+:::
+
+::: {.column #text}
+Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and a minor in Visual Communication from Luther College. Recently, he worked as a Research Associate for the Center for Behavior and the Environment at the nonprofit organization Rare. There, he supported primary and secondary research on the intersection of behavioral science, climate change, and entertainment media. He is passionate about exploring multifaceted solutions that balance economic development and ecological conservation in island nations.
+
+<br><center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ruivaldo-viana/)
+</center>
+:::
+:::
+:::
+
+::: {.highlights}
+### Visiting Scholars/Interns
+:::
+
+::: {.highlights}
+### Undergraduate Students
+:::
+
+::: {.highlights}
+### Research Assistants
+:::
+
 #### Sydney Campbell <br>
 
 ::: columns
 ::: {.columns}
 ::: {.column #img}
 <center>
-<img src="/assets/images/2024_sydney-campbell_headshot.jpg" width="90%" class="team-img" />
+<img src="/assets/images/2024_sydney_campbell_headshot.jpg" width="90%" class="team-img" />
 </center>
 :::
 
@@ -292,11 +299,30 @@ Whitney has an MS in fisheries ecology, is a National Geographic Explorer and wo
 </center>
 :::
 ::: {.column #img-right}
-<center><img src="/assets/images/2024_whitney-goodell_headshot.jpeg" width="90%" class="team-img" />
+<center><img src="/assets/images/2024_whitney_goodell_headshot.jpeg" width="90%" class="team-img" />
 </center>
 :::
 :::
 ::: 
+
+<div class="divider"></div>
+
+#### Elanur Ural <br>
+
+::: columns
+::: {.columns}
+::: {.column #img}
+<center><img src="/assets/images/2023_ela_ural_headshot.png" width="90%" class="team-img" /></center>
+:::
+::: {.column #text}
+Ela is a PhD student out of the Department of Economics at University of Hawai'i at Mānoa. Her research primarily focuses on agriculture and natural resources, with particular interest in the role of social institutions. She works under the Oleson Lab's coastal ecosystem accounting team on the valuation of fisheries for the main Hawaiian islands.
+
+<br><center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/elanur-ural/) 
+</center>
+:::
+:::
+:::
 
 ::: {.highlights}
 ### Data Coordinator
@@ -308,7 +334,7 @@ Whitney has an MS in fisheries ecology, is a National Geographic Explorer and wo
 ::: {.columns}
 ::: {.column #img}
 <center>
-<img src="/assets/images/2023_alemarie-ceria_headshot.png" width="90%" class="team-img" />
+<img src="/assets/images/2023_alemarie_ceria_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 ::: {.column #text}

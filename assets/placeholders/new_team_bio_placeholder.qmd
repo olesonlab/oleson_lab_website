@@ -1,0 +1,23 @@
+#### Name <br>
+
+::: columns
+::: {.columns}
+::: {.column #img-right}
+<center><img src="/assets/placeholders/placeholder_image_circle.png" width="90%" class="team-img" />
+</center>
+:::
+::: {.column #text}
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt.*
+
+<br><center>
+[{{< fa solid id-card size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands linkedin size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands github size=LARGE >}}]()
+</center>
+:::
+:::
+:::
+
+<div class="divider"></div>
