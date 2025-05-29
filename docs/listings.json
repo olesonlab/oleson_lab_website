@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/support_our_research.html",
-    "items": [
-      "/support_pages/zoe_sidana_bunnath/index.html"
-    ]
-  },
-  {
     "listing": "/data.html",
     "items": [
       "/data/2020-07-30_usgs_oleson-et-al_data-release/index.html"
+    ]
+  },
+  {
+    "listing": "/support_our_research.html",
+    "items": [
+      "/support_pages/zoe_sidana_bunnath/index.html"
     ]
   }
 ]
