@@ -1,0 +1,13 @@
+---
+title: "Zoe Sidana Bunnath"
+description: "Zoe's project assesses how biodiversity-friendly rice farming in Cambodia can continue as PES support ends, aiming to secure lasting benefits for farmers and wildlife."
+categories: [Environmental Economics, Sustainable Agriculture, Biodiversity Conservation]
+image: ../../assets/images/2024_zoe_sidana_bunnath_headshot_original.jpg
+---
+
+![](../../assets/images/2024_zoe_sidana_bunnath_headshot.png){ width="40%" fig-align="center" }
+
+**{{< bi bar-chart-line-fill >}} Project:** Sustaining Crane Conservation Through Farmer Participation: Insights from Incentive Structures and Willingness-to-Accept in Crane-Friendly Rice Farming <br>
+**{{< bi card-text >}} Description:** Biodiversity-friendly farming is essential for sustaining conservation and rural livelihoods in wetland rice systems. In Cambodia, the Crane-Friendly Rice Project applies Payment for Ecosystem Services (PES) to protect Sarus Crane feeding habitats by offering farmers financial incentives, technical support, and market access. As current subsidies are set to expire by 2031, the long-term sustainability of these practices remains uncertain. This study investigates how farmers perceive existing incentives and estimates the minimum compensation required to continue biodiversity-friendly practices post-subsidy. One hundred farmers—equally divided between participants and non-participants—will take part in a Discrete Choice Experiment (DCE), while focus group discussions will explore their motivations and perceived benefits. <br>
+**{{< bi heart-fill >}} Impact:** By integrating quantitative and qualitative data, the study will provide practical recommendations for improving contract design and informing future conservation policy. The findings will help strengthen the long-term viability of biodiversity-friendly rice farming in Cambodia and similar PES-based initiatives elsewhere. <br>
+**{{< bi piggy-bank-fill >}} Funding Goal:** $2,000 <br> 

@@ -12,5 +12,5 @@ listing:
   categories: numbered
   date-format: iso
   grid-columns: 2
-  image-height: 250px
+  image-height: 300px
 ---
