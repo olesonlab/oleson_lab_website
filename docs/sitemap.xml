@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://olesonlab.github.io/assets/placeholders/support_page_place_holder/index.html</loc>
-    <lastmod>2025-05-29T02:48:58.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/data.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
-  </url>
-  <url>
     <loc>https://olesonlab.github.io/research.html</loc>
     <lastmod>2025-05-22T22:20:00.618Z</lastmod>
   </url>
   <url>
-    <loc>https://olesonlab.github.io/support_pages/zoe_sidana_bunnath/index.html</loc>
-    <lastmod>2025-05-29T05:46:18.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/index.html</loc>
-    <lastmod>2025-05-22T22:20:00.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/contact.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/team.html</loc>
-    <lastmod>2025-05-23T01:37:45.668Z</lastmod>
+    <loc>https://olesonlab.github.io/support_pages/place_holder/index.html</loc>
+    <lastmod>2025-05-29T02:10:06.503Z</lastmod>
   </url>
   <url>
     <loc>https://olesonlab.github.io/publications.html</loc>
     <lastmod>2025-05-22T22:20:00.618Z</lastmod>
   </url>
   <url>
-    <loc>https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/index.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
+    <loc>https://olesonlab.github.io/contact.html</loc>
+    <lastmod>2025-03-13T11:22:42.827Z</lastmod>
   </url>
   <url>
     <loc>https://olesonlab.github.io/support_our_research.html</loc>
     <lastmod>2025-05-29T02:47:39.040Z</lastmod>
   </url>
   <url>
+    <loc>https://olesonlab.github.io/data.html</loc>
+    <lastmod>2025-03-13T10:43:58.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/team.html</loc>
+    <lastmod>2025-05-23T01:37:45.668Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/assets/placeholders/team-profile-placeholder.html</loc>
+    <lastmod>2025-03-13T10:43:58.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/index.html</loc>
+    <lastmod>2025-03-13T10:43:58.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/index.html</loc>
+    <lastmod>2025-05-22T22:20:00.618Z</lastmod>
+  </url>
+  <url>
     <loc>https://olesonlab.github.io/assets/placeholders/new_team_bio_placeholder.html</loc>
     <lastmod>2025-05-23T01:08:12.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/support_pages/zoe_sidana_bunnath/index.html</loc>
+    <lastmod>2025-05-29T05:46:18.597Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.github.io/assets/placeholders/support_page_place_holder/index.html</loc>
+    <lastmod>2025-05-29T02:48:58.917Z</lastmod>
   </url>
 </urlset>
