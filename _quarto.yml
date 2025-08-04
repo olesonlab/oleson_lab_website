@@ -24,9 +24,12 @@ website:
       - href: data.qmd
         text: Data
         icon: bar-chart-line-fill
-      - href: support_our_research.qmd
-        text: Support Our Research
-        icon: bag-heart-fill
+      - href: projects.qmd
+        text: Projects
+        icon: folder-fill
+      # - href: support_our_research.qmd
+      #   text: Support Our Research
+      #   icon: bag-heart-fill
       - href: contact.qmd
         text: Contact
         icon: telephone-fill
@@ -60,11 +63,11 @@ website:
       Sherman Lab 109, 1910 East West Road, Honolulu, HI 96822
 
     center: |
-      <br><br>© 2024 Oleson Lab, University of Hawaii at Manoa 
+      <br><br>© 2025 Oleson Lab, University of Hawaii at Manoa 
   back-to-top-navigation: true
   open-graph: 
     site-name: "Oleson Lab Website"
-  site-url: "https://olesonlab.github.io/"  # Replace with your actual site URL
+  site-url: "https://olesonlab.org/"  # Replace with your actual site URL
   repo-url: "https://github.com/olesonlab/olesonlab.github.io" 
   
 

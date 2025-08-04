@@ -1,0 +1,52 @@
+---
+title: "Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago"
+description: " "
+authors:
+  - name: Lucia Hošeková
+    affiliations:
+      - ref: uh-manoa-nrem
+    orcid: 0000-0003-0242-7078
+  - name: Lansing Perng
+    affiliations:
+      - ref: uh-manoa-nrem
+  - name: Ashley Lowe Mackenzie
+    affiliations:
+      - ref: uh-manoa-nrem
+    url: https://scholar.google.com/citations?user=0PteQJcAAAAJ&amp=&hl=en
+  - name: Kirsten L. L. Oleson
+    affiliations:
+      - ref: uh-manoa-nrem
+    orcid: 0000-0002-7992-5051
+affiliations:
+  - id: uh-manoa-nrem
+    name: University of Hawaiʻi at Mānoa
+    department: Department of Natural Resources and Environmental Management
+    address: 1910 East West Road
+    city: Honolulu
+    region: HI
+    country: USA
+    postal-code: 96822
+date: 2025-08-04
+# bibliography: references.bib
+categories: [OAP, Ocean Acidification]
+image: coral_reefs.jpg
+---
+
+## Abstract
+
+## Overview Video
+
+<iframe src="https://drive.google.com/file/d/14qxww4uoOG12x6xr5rbggo0ixYMGitB_/preview" width="100%" height="480" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<center class="data-buttons">
+[{{< bi github >}} &nbsp; GitHub Repository](https://github.com/your-username/your-repo){.btn .btn-outline-light}
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa globe >}} &nbsp; Website](https://your-website-url.com){.btn .btn-outline-light}
+<br>
+
+<img src="oap_logo.png" alt="NOAA OAP logo" height="80" />
+<img src="nrem_logo.png" alt="NREM logo" height="80" />
+<img src="soest_logo.png" alt="SOEST logo" height="125" />
+<img src="uh_logo.png"   alt="UH logo"   height="80" />
+
+</center>
