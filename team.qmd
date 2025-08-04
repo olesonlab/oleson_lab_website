@@ -191,6 +191,12 @@ Zoe Sidana Bunnath graduated from the Royal University of Phnom Penh with a Bach
 
 ::: columns
 ::: {.columns}
+::: {.column #img}
+<center>
+<img src="/assets/images/2025_helen_hastedt_headshot.png" width="90%" class="team-img" />
+</center>
+:::
+
 ::: {.column #text}
 Helen is a MS student in Natural Resources and Environmental Management at the University of Hawaiʻi at Mānoa. Her research focuses on quantifying the environmental impacts of tourism on Oʻahu, particularly water use. Originally from northern Germany, she holds a BSc in Environmental Engineering and Management from Lübeck University of Applied Sciences. Her academic path has been shaped by hands-on research in water systems, early engagement in biodiversity and youth policy programs, active community engagement, and a strong interest in linking science and policy. Helen’s current work applies geospatial and consumption data to better understand tourism’s resource demands in island systems.
 
@@ -198,11 +204,6 @@ Helen is a MS student in Natural Resources and Environmental Management at the U
 [{{< fa solid id-card size=LARGE >}}](https://helenhastedt.weebly.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [{{< fa brands linkedin size=LARGE >}}](http://linkedin.com/in/helenhastedt)
-</center>
-:::
-::: {.column #img-right}
-<center>
-<img src="/assets/images/2025_helen_hastedt_headshot.png" width="90%" class="team-img" />
 </center>
 :::
 :::
