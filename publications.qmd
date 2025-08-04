@@ -3,25 +3,11 @@ title: "{{< bi book-fill >}} Publications"
 format: html
 ---
 
-<!-- ## Research Themes -->
-
-<!-- ::: {layout-ncol=3} -->
-
-<!-- [{{< bi lightbulb-fill  >}}](https://olesonlab.github.io/research.html#themes) -- Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}} -->
-
-<!-- [{{< bi currency-dollar >}}](https://olesonlab.github.io/research.html#themes) -- Natural capital and green accounting {{< pagebreak >}} -->
-
-<!-- [{{< bi water  >}}](https://olesonlab.github.io/research.html#themes) -- Marine management {{< pagebreak >}} -->
-
-<!-- ::: -->
-
-*Denotations*:
-
-- I [underline]{.underline} my direct advisees, post-doctoral fellows, and research assistants, and *italicize* other student co-authors. Where a student and I worked equally on the research, we agreed to be co-primary authors (designated with an \*).
-- To specify my contribution to each paper across these diverse authorship conventions, I estimate my percent contribution to total effort in each of five categories: (i) concept and design of the study; (ii) data collection and processing; (iii) analysis of the data; (iv) interpretation of results; (v) preparation of the manuscript.
-- In parentheses, I note the 2020 Thomson Reuters InCites journal ranking, if available, and the number of times the article has been cited.
-
 ## Refereed Publications
+
+### 2025
+
+*Kamikawa, K.*, Peyton, K., & **Oleson, K.** (2025). Angler motivations and preferences when targeting bonefishes in Hawai’i. Pacific Science, 78(3), 251-260.
 
 ### 2024
 
@@ -48,20 +34,18 @@ A multi-decadal assessment of social thresholds and outcomes in marine social-ec
 Fezzi, C.F., , D.
 Ford, **K.L.L. Oleson** (2023).
 The economic value of coral reefs: Climate change impacts and spatial targeting of restoration measures.
-*Ecological Economics.* (%: 50; 30; 30; 50; 50) (6.536)
+*Ecological Economics.*
 
 [Article](https://doi.org/10.1016/j.ecolecon.2022.107628){.btn .btn-outline-light}
 
 Friedlander, A.M., A. Bukurrou, A. Filous, C.M. Karanasson, H. Koike, S. Koshiba, G. Mereb, V. Nestor, **K.L.L. Oleson**, D. Olsudong, J. Oruetamor, E.I. Otto, K. Polloi, G. Rengiil, E. Tellei, Y. Golbuu (2023).
 Assessing and managing charismatic marine megafauna in Palau: Bumphead parrotfish (Bolbometopon muricatum) and Napolean wrasse (Cheilinus undulatus).
-(%: 5; 5; 5; 5; 5) *Aquatic Conservation.* (3.258)
 
 [PDF](https://www.researchgate.net/publication/368875176_Assessing_and_managing_charismatic_marine_megafauna_in_Palau_Bumphead_parrotfish_Bolbometopon_muricatum_and_Napoleon_wrasse_Cheilinus_undulatus#read){.btn .btn-outline-light}
 
 Perng, L.Y., J. Walden, K.M. Leong, G.S. DePiper, C. Speir, S. Blake, K. Norman, S. Kasperski, M. Weijerman, **K.L.L. Oleson** (2023).
 Identifying social thresholds and measuring social achievement in social-ecological systems: A cross-regional comparison of fisheries in the United States.
 *Marine Policy*, *152*, p.105595.
-(%: 10; 0; 0; 5; 10) (4.315)
 
 [PDF](https://www.sciencedirect.com/science/article/pii/S0308597X23001227/pdfft?md5=55761b4942c1517e91eebad09da9c4c7&pid=1-s2.0-S0308597X23001227-main.pdf){.btn .btn-outline-light}
 
@@ -69,13 +53,11 @@ Identifying social thresholds and measuring social achievement in social-ecologi
 Babcock (2023).
 Trade-offs across values in cesspool management highlight challenges to policy making.
 *Journal of Environmental Management* 330:1168853.
-(%: 50; 50; 50; 50; 75) (8.910)
 
 [Article](https://doi.org/10.1016/j.jenvman.2022.116853){.btn .btn-outline-light}
 
 Seipp, K.Q., T. Maurer, M. Elias, P. Saska, C. Keske, **K.L.L. Oleson**, B.N. Egoh, R. Cleveland, C. Nyelele, N. Goncalves, K. Hemes, P. Wyrsch, D. Lewis, M.G. Chung, H. Gua, M. Conklin, R. Bales (2023).
 A multibenefit framework for funding forest management implementation in fire-driven ecosystems across the Western US. *Journal of Environmental Management*.
-(%: 5; 5; 5; 5; 5) (8.910)
 
 [PDF](https://www.sciencedirect.com/science/article/pii/S0301479723010587/pdfft?md5=07a57a7fd4e1b905efe163190f54af77&pid=1-s2.0-S0301479723010587-main.pdf){.btn .btn-outline-light}
 
@@ -84,7 +66,6 @@ A multibenefit framework for funding forest management implementation in fire-dr
 *Wilmot, E.*, J. Wong, Y. Tsang, A.J. Lynch, D. Infante, **K.L.L. Oleson**, A. Strauch, H. Cliverd (2022).
 Characterizing mauka-to-makai connections for aquatic ecosystem conservation on Maui, Hawaiʻi.
 *Ecological Informatics.* 70:101704.
-(%: 5; 0; 0; 5; 5) (4.498)
 
 [Article](https://doi.org/10.1016/j.ecoinf.2022.101704){.btn .btn-outline-light}
 
@@ -93,26 +74,24 @@ Characterizing mauka-to-makai connections for aquatic ecosystem conservation on 
 Bagstad, K.J., J.C. Ingram, C.D. Shapiro, A. La Notte, J. Maes, S. Vallecillo, C.F. Casey, P.D. Glynn, M.P. Heris, J.A. Johnson, C. Lauer, J. Matuszak, **K.L.L. Oleson**, S.M. Posner, C. Rhodes, B. Voigt (2021).
 Lessons learned from development of natural capital accounts in the United States and European Union.
 *Ecosystem Services. 52: 101359*.
-(%: 5; 5; 5; 5; 5) (6.910)
 
 [PDF](https://www.sciencedirect.com/science/article/pii/S2212041621001170/pdfft?md5=f42a3e65f481fd38c62adb4ceb321b70&pid=1-s2.0-S2212041621001170-main.pdf){.btn .btn-outline-light}
 
 *Hume, A.*, J. Leape, **K.L.L. Oleson**, E. Polk, K. Chand, R. Dunbar (2021).
 Towards an ocean-based large ocean states country classification.
 *Marine Policy.* 134:104766.
-(%: 5; 0; 10; 15; 15) (4.315)
 
 [Article](https://doi.org/10.1016/j.marpol.2021.104766){.btn .btn-outline-light}
 
 [Iwane, M.A.]{.underline}, K.L. Leong, M. Vaughan, **K.L.L. Oleson** (2021).
 When a shark is more than a shark: A socio-political problem-solving approach to fisher-shark interactions.
-*Frontiers in Marine Science.* (%: 10; 0; 0; 30; 30) (4.912) (8)
+*Frontiers in Marine Science.*
 
 [Article](https://doi.org/10.3389/fcosc.2021.669105){.btn .btn-outline-light}
 
 [Suan, A.]{.underline}, K.L. Leong, **K.L.L. Oleson** (2021).
 Automated content analysis of the Hawaiʻi small boat fishery survey reveals nuanced, evolving conflicts.
-*Ecology and Society.* (%: 30; 0; 15; 33; 33) (4.403) (N/A)
+*Ecology and Society.*
 
 [Article](https://doi.org/10.5751/ES-12708-260409){.btn .btn-outline-light}
 
@@ -121,55 +100,48 @@ Automated content analysis of the Hawaiʻi small boat fishery survey reveals nua
 [Dacks, R.]{.underline}, [S.A. Lewis,]{.underline} P.A.S. James, L. Marino, **K.L.L. Oleson** (2020).
 Documenting baseline value chains of Palau's nearshore and offshore fisheries prior to implementing a large-scale marine protected area.
 *Marine Policy* 117:103754.
-(%: 80; 30; 30; 30; 30) (4.173) (13)
 
 [Article](https://doi.org/10.1016/j.marpol.2019.103754){.btn .btn-outline-light}
 
 Gruby, R., N. Gray, L. Fairbanks, E. Havice, L. Campbell, A. Friedlander, **K.L.L. Oleson**, K. Sam, L. Mitchell, Q. Hanich (2020).
 Large-scale marine protected areas meet fisheries management: Policy interactions in ocean governance.
 *Conservation Letters* e12753.
-(%: 10; 10; 10; 10; 10) (8.105) (8)
 
 [Article](https://doi.org/10.1111/conl.12753){.btn .btn-outline-light}
 
 [Lewis, S.A.]{.underline}, [C. Fezzi]{.underline}, [R. Dacks,]{.underline} S. Ferrini, P.A.S. James, L.L. Marino, Y. Golbuu, **K.L.L. Oleson** (2020).
 Mitigating unintended consequences of conservation policies requires understanding tourists' socio-economic behavior and preferences.
 *Nature Food* 1:783-786.
-(%: 80; 30; 30; 30; 30) (5)
 
 [Article](https://doi.org/10.1038/s43016-020-00192-7){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**, K.J. Bagstad, [C. Fezzi]{.underline}, [M.D. Barnes]{.underline}, *M.K. Donovan*, [K.A. Falinski]{.underline}, K.D. Gorospe, [H. Htun]{.underline}, [J. Lecky]{.underline}, F. Villa, *T. Wong* (2020).
 Linking land and sea through an ecological-economic model of coral reef recreation.
 *Ecological Economics* 177:106788.
-(%: 100; 60; 50; 50; 75) (4.482) (12)
 
 [Article](https://doi.org/10.1016/j.ecolecon.2020.106788){.btn .btn-outline-light}
 
 Warnell, K.J.D., M. Russell, C. Rhodes, K.J. Bagstad, L.P. Olander, D.J. Nowak, R. Poudel, P.D. Glynn, J.L. Hass, S. Hirabayashi, J.C. Ingram, J. Matuszak, **K.L.L. Oleson**, S.M. Posner, F. Villa (2020).
 Testing ecosystem accounting in the United States: A case study for the Southeast.
-*Ecosystem Services* 43:101099*.* (%: 5; 0; 0; 5; 5)(5.454) (25)
+*Ecosystem Services* 43:101099*.*
 
 [Article](https://doi.org/10.1016/j.ecoser.2020.101099){.btn .btn-outline-light}
 
 Weijerman, M., Z. Oyafuso, K. Leong, **K.L.L. Oleson**, M. Winston (2020).
 Supporting EBFM in meeting multiple objectives for sustainable use of coral reef ecosystems.
 *ICES Journal of Marine Science* fsaa194.
-(%: 10; 0; 5; 15; 15) (3.593) (2)
 
 [Article](https://doi.org/10.1093/icesjms/fsaa194){.btn .btn-outline-light}
 
 Winter, K.B., N.K. Lincoln, F. Berkes, R.A. Alegado, N. Kurashima, K.L. Frank, P. Pascua, Y.M. Rii, F. Reppun, I.S.S. Knapp, W.C. McClatchey, T. Ticktin, C. Smith, E.C. Franklin, **K.L.L. Oleson**, M.R. Price, M.A. McManus, M.J. Donahue, K.S. Rodgers, B.W. Bowen, C.E. Nelson, B. Thomas, J.-A. Leong, E.M.P. Madin, M.J. Rivera, K.A. Falinski, L.L. Bremer, J.L. Deenik, S.M. Gon III, B. Neilson, R. Okano, A. Olegario, B. Nyberg, A. Kawelo, K. Kotubetey, J. Kukea-Shultz, R.J. Toonen (2020).
 Ecomimicry in Indigenous resource management: optimizing ecosystem services to achieve resource abundance, with examples from Hawaiʻi.
 *Ecology and Society* *25*(2):26.
-(%: 0; 0; 0; 4; 4) (4.403) (38)
 
 [Article](https://doi.org/10.5751/ES-11539-250226){.btn .btn-outline-light}
 
 Winter, K.B., Y. M. Rii, F. A.W.L. Reppun, K. DeLaforgue Hintzen, R.A. Alegado, B.W. Bowen, L.L. Bremer, M. Coffman, J.L. Deenik, M.J. Donahue, K.A. Falinski, K. Frank, E.C. Franklin, N. Kurashima, N. Kekuewa Lincoln, E.M.P. Madin, M.A. McManus, C.E. Nelson, R. Okano, A. Olegario, P. Pascua, **K.L.L. Oleson**, M.R. Price, M.J. Rivera, K.S. Rodgers, T. Ticktin, C.L. Sabine, C.M. Smith, A. Hewett, R. Kaluhiwa, M. Cypher, B. Thomas, J.-A. Leong, K. Kekuewa, J. Tanimoto, K. Kukea-Shultz, A. Kawelo, K. Kotubetey, B.J. Neilson, T.S. Lee, R.J. Toonen (2020).
 Collaborative research to inform adaptive comanagement: a framework for the Heʻeia National Estuarine Research Reserve.
 *Ecology and Society* *25*(4):15.
-(2%) (%: 0; 0; 0; 2; 2) (4.403) (15)
 
 [Article](https://doi.org/10.5751/ES-11895-250415){.btn .btn-outline-light}
 
@@ -178,14 +150,12 @@ Collaborative research to inform adaptive comanagement: a framework for the Heʻ
 [Barnes, M.D.]{.underline}, W. Goodell, R. Whittier, R., [K.A. Falinski]{.underline}, T. Callender, [H. Htun]{.underline}, [C. Leviol]{.underline}, H. Slay, **K.L.L. Oleson** (2019).
 Decision analysis to support wastewater management in coral reef priority area.
 *Marine Pollution Bulletin* 148:16-29.
-(%: 60; 30; 20; 30; 40) (5.553) (10)
 
 [Article](https://doi.org/10.1016/j.marpolbul.2019.07.045){.btn .btn-outline-light}
 
 *Jouffray, J.B.*, L. Wedding, A. Norström, *M. Donovan*, G. Williams, L. Crowder, A. Erickson, A. Friedlander, N. Graham, J. Gove, C. Kappel, J. Kittinger, [J. Lecky]{.underline}, **K.L.L. Oleson**, K. Selkoe, C. White, I. Williams, M. Nystrom (2019).
 Parsing human and biophysical drivers of coral reef regimes.
 *Proceedings of the Royal Society B 286*(1896):20182544.
-(%: 5; 0; 0; 5; 5%) (5.349) (33)
 
 [Article](https://doi.org/10.1098/rspb.2018.2544){.btn .btn-outline-light}
 
@@ -194,59 +164,54 @@ Parsing human and biophysical drivers of coral reef regimes.
 Boyd, J.W., K.J. Bagstad, J.C. Ingram, C.D. Shapiro, J.E. Adkins, C.F. Casey, C.S. Duke, P.D. Glynn, E. Goldman, M. Grasso, J.L. Hass, J.A. Johnson, G. Lange, J. Matusak, A. Miller, **K.L.L. Oleson**, S.M. Posner, C. Rhodes, F. Soulard, M. Vardon, F. Villa, B. Voigt, S. Wentland (2018).
 The natural capital accounting opportunity: let's really do the numbers.
 *BioScience* *68*(12):940-943.
-(%: 5; 5; 5; 5; 5) (8.589) (11)
 
 [Article](https://doi.org/10.1093/biosci/biy135){.btn .btn-outline-light}
 
 Bremer, L.L., K. Falinski, C. Ching, C.A. Wada, K.M. Burnett, K. Kukea-Shultz, N. Reppun, G. Chun, **K.L.L. Oleson**, T. Ticktin (2018).
 Biocultural restoration of traditional agriculture: cultural, environmental, and economic outcomes of loʻi kalo restoration in Heʻeia, Oʻahu.
 *Sustainability 10*(12):4502.
-(%: 25; 10; 10; 10; 10) (3.251) (21)
 
 [Article](https://doi.org/10.3390/su10124502){.btn .btn-outline-light}
 
 Bryant, B.P., M.E. Borsuk, P. Hamel, **K.L.L. Oleson**, C.J.E. Schulp, S. Wilcock (2018).
 Transparent and feasible uncertainty assessment adds value to applied ecosystem services modeling.
 *Ecosystem Services* 33:103-109.
-(%: 15; 15; 15; 15; 10) (5.454) (18)
 
 [Article](https://doi.org/10.1016/j.ecoser.2018.09.001){.btn .btn-outline-light}
 
 *Delevaux, J.M.*,R. Whittier, K.A. Stamoulis, L.L. Bremer, S. Jupiter, A.M. Friedlander, M. Poti, G. Guannel, N. Kurashima, K.B. Winter, R. Toonen, E. Conklin, C. Wiggins, A. Knudby, W. Goodell, K. Burnett, S. Yee, [H. Htun]{.underline}, **K.L.L. Oleson**, T. Wiegner, T. Ticktin (2018).
 A linked land-sea modeling framework to inform ridge-to-reef management in high oceanic islands.
 *PLoS One* *13*(3): e0193230.
-(%: 40; 0; 0; 10; 10) (3.240) (33)
 
 [Article](https://doi.org/10.1371/journal.pone.0193230){.btn .btn-outline-light}
 
 *Donovan, M.*, A. Friedlander, [J. Lecky]{.underline}, *J. Jouffray*, G. Williams, L. Wedding, L. Crowder, A. Erickson, N. Graham, J. Gove, C. Kappel, K. Karr, J. Kittinger, A. Norström, M. Nyström, **K.L.L. Oleson**, *K. Stamoulis*, C. White, I. Williams, K. Selkoe (2018).
 Combining fish and benthic communities into multiple regimes reveals complex reef dynamics.
-*Scientific Reports* *8*(1):16943*.* (%: 10; 0; 0; 10; 10) (4.379) (28)
+*Scientific Reports* *8*(1):16943*.*
 
 [Article](https://doi.org/10.1038/s41598-018-35057-4){.btn .btn-outline-light}
 
 [Ingram, R.]{.underline}, **K.L.L. Oleson**, J. Gove (2018).
 Revealing complex social-ecological interactions through participatory modeling to support ecosystem-based management in Hawai'i.
 *Marine Policy* 94:180-188.
-(%: 60; 20; 20; 33; 40) (4.173) (26)
 
 [Article](https://doi.org/10.1016/j.marpol.2018.05.002){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**, [S. Grafeld]{.underline}, P. van Beukering, L. Brander, P.A.S. James, E. Wolfs (2018).
 Charting progress towards system-scale ecosystem service valuation in islands.
-*Environmental Conservation.* Doi:10.107/S0376892918000140 (%: 90; 30; 40; 40; 50) (3.012) (6)
+*Environmental Conservation.* Doi:10.107/S0376892918000140
 
 [Article](https://doi.org/10.1017/S0376892918000140){.btn .btn-outline-light}
 
 Wedding, L.M., [J. Lecky]{.underline}, J.M. Gove, H.R. Walecka, *M.K. Donovan*, G.J. Williams, *J. Jouffray*, L.B. Crowder, A. Erickson, [K. Falinski]{.underline}, A.M. Friedlander, C.V. Kappel, J.N. Kittinger, *K. McCoy*, A. Norström, M. Nyström, **K.L.L Oleson**, *K.A. Stamoulis*, C. White, K.A. Selkoe (2018).
 Advancing the integration of spatial data to map human and natural drivers on coral reefs.
-*PLoS One* 13(3): e0189792 (%: 10; 10; 10; 10; 10) (3.240) (44)
+*PLoS One* 13(3): e0189792.
 
 [Article](https://doi.org/10.1371/journal.pone.0189792){.btn .btn-outline-light}
 
 Weijerman, M., [L.](http://www.frontiersin.org/Community/WhosWhoActivity.aspx?sname=LindsayVeazey&UID=597860) [Veazey]{.underline}, S. Yee, K. Vaché, [J.D. Delevaux]{.underline}, *M. Donovan*, [K. Falinski]{.underline}, [J. Lecky]{.underline}, **K.L.L. Oleson** (2018).
 Managing local stressors for coral reef condition and ecosystem services delivery under climate scenarios.
-*Frontiers in Marine Science 5*(2018):425*.* (%: 60; 20; 20; 30; 30) (4.912) (11)
+*Frontiers in Marine Science 5*(2018):425*.*
 
 [Article](https://doi.org/10.3389/fmars.2018.00425){.btn .btn-outline-light}
 
@@ -255,28 +220,24 @@ Managing local stressors for coral reef condition and ecosystem services deliver
 [Grafeld, S.]{.underline}, **K.L.L. Oleson**, L. Teneva, J.N. Kittinger (2017).
 Follow that fish: Uncovering the hidden blue economy in coral reef fisheries.
 *PLoS One* 12(8): e0182104.
-(%: 30; 20; 30; 30; 30) (3.240) (39)
 
 [Article](https://doi.org/10.1371/journal.pone.0182104){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**, [K.A. Falinski]{.underline}, [J. Lecky]{.underline}, [C. Rowe]{.underline}, C.V. Kappel, K.A. Selkoe, C. White (2017).
 Upstream solutions to coral reef conservation: smart and cooperative decision-making pays off.
 *Journal of Environmental Management* 191:8-18.
-(%: 70; 40; 60; 60; 60) (6.789) (26)
 
 [Article](https://doi.org/10.1016/j.jenvman.2016.12.067){.btn .btn-outline-light}
 
 [Peng, M.]{.underline}, **K.L.L. Oleson** (2017).
 Beach recreationalists' preferences for environmental quality on Oahu.
 *Ecological Economics* 136:41-52.
-(%: 70; 15; 15; 50; 50) (5.389) (44)
 
 [Article](https://doi.org/10.1016/j.ecolecon.2017.02.003){.btn .btn-outline-light}
 
 *Powell, K.B.*, L.M. Ellsworth, C.M. Litton, **K.L.L. Oleson**, S.A. Ammondt (2017).
 Toward cost-effective restoration: Scaling up restoration in ecosystems degraded by nonnative invasive grass and ungulates.
 *Pacific Science* 71(4):479-493.
-(%: 10; 5; 5; 10; 10) (1.101)
 
 [Article](https://doi.org/10.2984/71.4.6){.btn .btn-outline-light}
 
@@ -285,14 +246,12 @@ Toward cost-effective restoration: Scaling up restoration in ecosystems degraded
 [Grafeld, S.]{.underline}, **K.L.L. Oleson**, [M. Barnes]{.underline}, [M. Peng,]{.underline} C. Chan, M. Weijerman (2016).
 Divers willingness to pay for improved coral reef conditions in Guam: An untapped source of funding for management and conservation?
 *Ecological Economics* 128:202-213.
-(%: 60, 5; 20; 30; 40) (5.389) (36)
 
 [Article](https://dx.doi.org/10.2139/ssrn.2664405){.btn .btn-outline-light}
 
 [Ratsimbazafy, H.]{.underline}, **K.L.L. Oleson**, R. Roy, A. Harris (2016).
 Fishing site mapping using local knowledge provides accurate and satisfactory results: Case study of octopus fisheries in Madagascar.
 *Western Indian Ocean Journal of Marine Science* 15(2):1-7.
-(%: 50, 30, 20, 20, 0) (nd) (5)
 
 [Article](https://www.researchgate.net/publication/316787968_Fishing_site_mapping_using_local_knowledge_provides_accurate_and_satisfactory_results_Case_study_of_Octopus_fisheries_in_Madagascar){.btn .btn-outline-light}
 
@@ -300,7 +259,6 @@ Weijerman, M., C. Grace-McCaskey, [S. Grafeld]{.underline}, D. Kotowicz, **K.L.L
 van Putten (2016).
 Towards an ecosystem-based approach of Guam's coral reefs: the human dimension.
 *Marine Policy* 63:8-17.
-(%: 10; 10; 15; 15; 15) (4.173) (14)
 
 [Article](https://doi.org/10.1016/j.marpol.2015.09.028){.btn .btn-outline-light}
 
@@ -309,41 +267,36 @@ Towards an ecosystem-based approach of Guam's coral reefs: the human dimension.
 [Barnes-Mauthe\*, M]{.underline}., **K.L.L. Oleson**\*, L.M. Brander, B. Zafindrasilivonona, T.A. Oliver, P. van Beukering (2015).
 Social capital as an ecosystem service: Evidence from a locally managed area.
 *Ecosystem Services* 16:283-293.
-(%: 90; 80; 30; 30; 40) (5.454) (51)
 
 [Article](https://doi.org/10.1016/j.ecoser.2014.10.009){.btn .btn-outline-light}
 
 [Bremer, L. L.]{.underline}, [J.M.S. Delevaux]{.underline}, J.J.K. Leary, L.J. Cox, **K.L.L. Oleson** (2015).
 Opportunities and strategies to incorporate ecosystem services knowledge and decision support tools into planning and decision making in Hawaiʻi.
 *Environmental Management* 55(4):884-899.
-(%: 80; 33; 20; 40; 40) (3.266) (33)
 
 [Article](https://doi.org/10.1007/s00267-014-0426-4){.btn .btn-outline-light}
 
 Kittinger, J.N., L. Teneva, *H. Koike*, *K. Stamoulis*, D.S. Kittinger, **K.L.L. Oleson**, E. Conklin, M. Gomes, B. Wilcox, A. Friedlander (2015).
 From reef to table: social and ecological factors affecting coral reef fisheries, artisanal seafood supply chains, and seafood security.
-*PLoS One* 10(8):e0123856.
-(%: 15; 10; 10; 10; 10) (3.240) (91)
+*PLoS One* 10(8): e0123856.
 
 [Article](https://doi.org/10.1371/journal.pone.0123856){.btn .btn-outline-light}
 
 McKeon, C.S., M.X. Weber, S.E. Alter, N.E. Seavy, E.D. Crandall, D. Barshis, E. Fletcher-Leggett, **K.L.L. Oleson** (2015).
 Melting barriers to faunal exchange across ocean basins.
-*Global Change Biology* 22(2):465-473*.* (%: 0; 0; 10; 10; 10) (3.014) (20)
+*Global Change Biology* 22(2):465-473*.*
 
 [Article](https://doi.org/10.1111/gcb.13116){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**\*, [M. Barnes-Mauthe\*]{.underline}, L. M. Brander, T. A. Oliver, [I. van Beek]{.underline}, B Zafindrasilivonona, P. van Beukering (2015).
 Cultural bequest values for ecosystem service flows among indigenous fishers: A discrete choice experiment validated with mixed methods.
 *Ecological Economics* 114:104-116.
-(%: 90; 80; 30; 40; 40) (5.389) (86)
 
 [Article](https://dx.doi.org/10.2139/ssrn.2516507){.btn .btn-outline-light}
 
 Oliver, T.A.\*, **K.L.L. Oleson**\*, [H. Ratsimbazafy]{.underline}, *D. Raberinary*, S. Benbow, A. Harris (2015).
 Positive catch and economic benefits of periodic octopus fishery closures: Do effective, narrowly targeted actions 'catalyze' broader management?
 *PLoS One* 10(6):e0129075.
-(%: 50; 30; 30; 30; 40) (3.240) (53)
 
 [Article](https://doi.org/10.1371/journal.pone.0129075){.btn .btn-outline-light}
 
@@ -352,21 +305,18 @@ Positive catch and economic benefits of periodic octopus fishery closures: Do ef
 Benbow, S., F. Humber, T. Oliver, **K.L.L. Oleson**, *D. Raberinary*, M. Nadon, [H. Ratsimbazafy]{.underline}, A. Harris (2014).
 Lessons learnt from experimental temporary octopus fishing closures in southwest Madagascar: benefits of concurrent closures.
 *African Journal of Marine Science* 36(1):31-37.
-(%: 30; 30; 15; 25; 25) (nd) (45)
 
 [Article](https://doi.org/10.2989/1814232X.2014.893256){.btn .btn-outline-light}
 
 Ostergaard-Klem\*, R., **K.L.L. Oleson**\* (2014).
 GPI island style: Localizing the Genuine Progress Indicator to Hawaiʻi.
 *Environmental Practice* (16)3:1-11.
-(%: 50; 50; 50; 50; 50) (0.1) (17)
 
 [Article](https://doi.org/10.1017/S1466046614000192){.btn .btn-outline-light}
 
 Tallis, H., J. Lubchenco, ..., **K.L.L. Oleson**, et al. (2014).
 A call for inclusive conservation.
 *Nature* 515:27-28.
-(%: 0; 0; 0; 2; 2) (49.962)
 
 [PDF](https://www.researchgate.net/publication/267870726_Working_together_A_call_for_inclusive_conservation#read){.btn .btn-outline-light}
 
@@ -375,13 +325,12 @@ A call for inclusive conservation.
 Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, **K.L.L. Oleson** (2013).
 Sustainability and the measurement of wealth: Further reflections.
 *Environment and Development Economics* 18:504-516.
-(%: 15; 30; 30; 20; 15) (1.939) (69)
 
 [Article](https://doi.org/10.1017/S1355770X13000193){.btn .btn-outline-light}
 
 [Barnes-Mauthe\*, M]{.underline}., **K.L.L. Oleson**\*, B. Zafindrasilivonona (2013).
 A total economic valuation of small-scale fisheries and characterization of post-landings trends.
-*Fisheries Research* 147:175-185*.* (%: 90; 80; 30; 40; 40) (2.422) (147)
+*Fisheries Research* 147:175-185*.*
 
 [Article](https://doi.org/10.1016/j.fishres.2013.05.011){.btn .btn-outline-light}
 
@@ -389,14 +338,12 @@ Gardner, C., M.E. Nicholl, T. Mbohoahy, **K.L.L. Oleson**, A.N. Ratsifandrihaman
 de Roland, M. Virah-Sawmy, B. Zafindrasilivonona, Z.G. Davies (2013).
 Protected areas for conservation and poverty alleviation: experiences from Madagascar.
 *Journal of Applied Ecology* 50(6):1289-1294.
-(%: 10; 10; 10; 10; 10) (6.528) (77)
 
 [Article](https://doi.org/10.1111/1365-2664.12164){.btn .btn-outline-light}
 
 Westerman, K., **K.L.L. Oleson**, A. Harris (2013).
 Building socio-ecological resilience to climate change through community-based coastal conservation and development: Experiences in southern Madagascar.
 *Western Indian Ocean Journal of Marine Science* 11(1): 87-97.
-(%: 33; 33; 33; 33; 20) (22)
 
 [Article](https://www.researchgate.net/publication/266478087_Building_Socio-ecological_Resilience_to_Climate_Change_through_Community-Based_Coastal_Conservation_and_Development_Experiences_in_Southern_Madagascar){.btn .btn-outline-light}
 
@@ -405,7 +352,6 @@ Building socio-ecological resilience to climate change through community-based c
 Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, **K.L.L. Oleson** (2012).
 Sustainability and the measurement of wealth.
 *Environment and Development Economics* 17(3): 317-353.
-(%: 15; 50; 50; 20; 20) (1.939) (733)
 
 [Article](https://doi.org/10.1017/S1355770X12000137){.btn .btn-outline-light}
 
@@ -414,7 +360,6 @@ Sustainability and the measurement of wealth.
 **Oleson, K.L.L.** (2011).
 Shaky foundations and sustainable exploiters: Problems with using national sustainability measures in a transnational era.
 *Journal of Environment and Development* 20(3): 329-349.
-(2.097) (12)
 
 [Article](https://doi.org/10.1177/1070496511416747){.btn .btn-outline-light}
 
@@ -423,7 +368,6 @@ Shaky foundations and sustainable exploiters: Problems with using national susta
 Khagram,S., K. Cahill, D. MacMynowski, J. Warren, E. Richards, **K.L.L. Oleson**, J. Kitzes, R. Katz, R. Hwang, R. Goldman, J. Funk, K. Brauman (2010).
 Thinking about knowing: Intellectual foundations for interdisciplinary research.
 *Environmental Conservation* 37(4):388.
-(3.012) (62)
 
 [Article](https://doi.org/10.1017/S0376892910000809){.btn .btn-outline-light}
 
@@ -432,14 +376,12 @@ Thinking about knowing: Intellectual foundations for interdisciplinary research.
 Burke, M., **K.L.L. Oleson**, E. McCullough, J. Gaskell (2009).
 A global model tracking water, nitrogen, and land inputs and virtual transfers from industrialized meat production and trade.
 *Environmental Modeling and Assessment*, 14(2):179.
-(2.333) (36)
 
 [Article](http://dx.doi.org/10.1007/s10666-008-9149-3){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**, L. Hartzell, M. Mastrandrea (2009).
 The baker's dozen: Key nations can and should act together to prevent further dangerous climate change.
 *Intergenerational Justice Review*, 9(3):106.
-(3)
 
 [Article](https://doi.org/10.24357/IGJR.3.3.575){.btn .btn-outline-light}
 
@@ -448,7 +390,6 @@ The baker's dozen: Key nations can and should act together to prevent further da
 Galloway, J., M. Burke, E. Bradford, W. Falcon, J. Gaskell, E. McCullough, H. Mooney, R. Naylor, **K.L.L. Oleson**, V. Smil, H. Steinfeld, T. Wassenaar (2007).
 International trade in meat.
 *Ambio*, 36(8).
-(5.129) (247)
 
 [Article](https://doi.org/10.1579/0044-7447(2007)36%5B622:ITIMTT%5D2.0.CO;2){.btn .btn-outline-light}
 
@@ -463,7 +404,6 @@ P.
 Levin and M.
 Poe (Eds.).
 Amsterdam:Elsevier.
-(4)
 
 [Chapter](https://doi.org/10.1016/B978-0-12-805375-1.00005-2){.btn .btn-outline-light}
 
@@ -471,7 +411,7 @@ Amsterdam:Elsevier.
 Linking landscape and seascape conditions: Science, tools, and management.
 In *Seascape Ecology: Taking landscape ecology into the sea*, S.J.
 Pittman (Ed.).
-West Sussex:Wiley**.** (%: 80; 40; 40; 60; 60)
+West Sussex:Wiley**.**
 
 [PDF](https://www.researchgate.net/publication/320866384_Chapter_11_Linking_Landscape_and_Seascape_Conditions_Science_Tools_and_Management#read){.btn .btn-outline-light}
 

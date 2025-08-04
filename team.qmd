@@ -45,7 +45,7 @@ I serve on numerous advisory committees, including for the United Nations Global
 </center>
 :::
 ::: {.column #text}
-Ashley is an applied environmental economist specializing in the intersection of social and ecological systems, particularly in public lands and outdoor recreation. She received a PhD in Applied Economics from Oregon State University and joined the lab in June of 2023. Her research addresses emerging questions in outdoor recreation and public land management, including driving factors for demand, management strategies and various quantitative nonmarket valuation methods. Ashley's current lab project is focusing on valuing the impacts of ocean acidification on coral reefs through ecosystem provision of recreation and tourism.
+Ashley is an Assistant Professor within the Department of Natural Resources and Environmental Management and applied environmental economist specializing in the intersection of social and ecological systems, particularly in public lands and outdoor recreation. She received a PhD in Applied Economics from Oregon State University and joined the lab in June of 2023. Her research addresses emerging questions in outdoor recreation and public land management, including driving factors for demand, management strategies and various quantitative nonmarket valuation methods. Ashley's current lab project is focusing on valuing the impacts of ocean acidification on coral reefs through ecosystem provision of recreation and tourism.
 
 <br><center>
 [{{< fa solid id-card size=LARGE >}}](https://loweas.github.io/)
@@ -65,28 +65,6 @@ Ashley is an applied environmental economist specializing in the intersection of
 ::: {.highlights}
 ### Post-Doctoral Fellows
 ::: 
-
-#### Lansing Perng <br>
-
-::: columns
-::: {.columns}
-::: {.column #text}
-Lansing is a postdoctoral fellow specializing in modeling social-ecological systems. She received her PhD in Natural Resources and Environmental Management from the University of Hawaiʻi at Mānoa in May of 2024. She is currently working on assessing social vulnerability to ocean acidification in the main Hawaiian Islands by projecting climate change impacts on nearshore ecosystems and fisheries.
-
-<br><center>
-[{{< fa solid id-card size=LARGE >}}](https://lansingyperng.wixsite.com/home)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/lansing-perng-5944348b/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< fa brands github size=LARGE >}}](https://github.com/lyperng)
-</center>
-:::
-::: {.column #img-right}
-<center><img src="/assets/images/2024_lansing_perng_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-:::
-:::
 
 ::: {.highlights}
 ### PhD Students
@@ -162,6 +140,28 @@ Ann, an MS student, specializes in employing Theory of Change methodology for co
 :::
 :::
 
+<div class="divider"></div>
+
+#### Ruivaldo Freitas Viana <br>
+
+::: columns
+::: {.columns}
+::: {.column #img}
+<center>
+<img src="/assets/images/2024_ruivaldo_viana_headshot.png" width="90%" class="team-img" />
+</center>
+:::
+
+::: {.column #text}
+Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and a minor in Visual Communication from Luther College. Recently, he worked as a Research Associate for the Center for Behavior and the Environment at the nonprofit organization Rare. There, he supported primary and secondary research on the intersection of behavioral science, climate change, and entertainment media. He is passionate about exploring multifaceted solutions that balance economic development and ecological conservation in island nations.
+
+<br><center>
+[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ruivaldo-viana/)
+</center>
+:::
+:::
+:::
+
 ::: {.highlights}
 ### Master's of Environmental Management Students
 :::
@@ -208,48 +208,6 @@ Helen is a MS student in Natural Resources and Environmental Management at the U
 :::
 :::
 
-<div class="divider"></div>
-
-#### Kayla Hodges <br>
-
-::: columns
-::: {.columns}
-::: {.column #text}
-Kayla Hodges is investigating how women rangers in Asia and Latin America impact ranger-community relationships and conservation outcomes.
-
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](http://www.linkedin.com/in/kghodges)
-</center>
-:::
-::: {.column #img-right}
-<center><img src="/assets/images/2024_kayla_hodges_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-:::
-:::
-
-<div class="divider"></div>
-
-#### Ruivaldo Freitas Viana <br>
-
-::: columns
-::: {.columns}
-::: {.column #img}
-<center>
-<img src="/assets/images/2024_ruivaldo_viana_headshot.png" width="90%" class="team-img" />
-</center>
-:::
-
-::: {.column #text}
-Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and a minor in Visual Communication from Luther College. Recently, he worked as a Research Associate for the Center for Behavior and the Environment at the nonprofit organization Rare. There, he supported primary and secondary research on the intersection of behavioral science, climate change, and entertainment media. He is passionate about exploring multifaceted solutions that balance economic development and ecological conservation in island nations.
-
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/ruivaldo-viana/)
-</center>
-:::
-:::
-:::
-
 ::: {.highlights}
 ### Visiting Scholars/Interns
 :::
@@ -262,50 +220,50 @@ Ruivaldo Freitas Viana graduated with a Bachelor of Arts degree in Economics and
 ### Research Assistants
 :::
 
-#### Sydney Campbell <br>
+<!-- #### Sydney Campbell <br> -->
 
-::: columns
-::: {.columns}
-::: {.column #img}
-<center>
-<img src="/assets/images/2024_sydney_campbell_headshot.jpg" width="90%" class="team-img" />
-</center>
-:::
+<!-- ::: columns -->
+<!-- ::: {.columns} -->
+<!-- ::: {.column #img} -->
+<!-- <center> -->
+<!-- <img src="/assets/images/2024_sydney_campbell_headshot.jpg" width="90%" class="team-img" /> -->
+<!-- </center> -->
+<!-- ::: -->
 
-::: {.column #text}
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.*
+<!-- ::: {.column #text} -->
+<!-- *Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt. Sed ac felis ac nulla fermentum tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.* -->
 
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/sydney-campbell-b4428419b/)
-</center>
-:::
-:::
-:::
+<!-- <br><center> -->
+<!-- [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/sydney-campbell-b4428419b/) -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- ::: -->
 
-<div class="divider"></div>
+<!-- <div class="divider"></div> -->
 
-#### Whitney Goodell <br>
+<!-- #### Whitney Goodell <br> -->
 
-::: columns
-::: {.columns}
-::: {.column #text}
+<!-- ::: columns -->
+<!-- ::: {.columns} -->
+<!-- ::: {.column #text} -->
 
-Whitney has an MS in fisheries ecology, is a National Geographic Explorer and works at Pristine Seas. She occasionally supports the lab in spatial data analysis.
+<!-- Whitney has an MS in fisheries ecology, is a National Geographic Explorer and works at Pristine Seas. She occasionally supports the lab in spatial data analysis. -->
 
-<br><center>
-[{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/whitney-goodell-26abb62a2/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Whitney-Goodell)
-</center>
-:::
-::: {.column #img-right}
-<center><img src="/assets/images/2024_whitney_goodell_headshot.jpeg" width="90%" class="team-img" />
-</center>
-:::
-:::
-::: 
+<!-- <br><center> -->
+<!-- [{{< fa brands linkedin size=LARGE >}}](https://www.linkedin.com/in/whitney-goodell-26abb62a2/) -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- [{{< ai researchgate size=LARGE >}}](https://www.researchgate.net/profile/Whitney-Goodell) -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: {.column #img-right} -->
+<!-- <center><img src="/assets/images/2024_whitney_goodell_headshot.jpeg" width="90%" class="team-img" /> -->
+<!-- </center> -->
+<!-- ::: -->
+<!-- ::: -->
+<!-- :::  -->
 
-<div class="divider"></div>
+<!-- <div class="divider"></div> -->
 
 #### Elanur Ural <br>
 
@@ -378,7 +336,7 @@ She now works for the government of West Australia.
 
 #### Anders Dugstad (2023-2024)
 
-#### Ashley Lowe MacKenzie (2022-2023)
+#### Lansing Perng (2018-2024)
 
 ::: {.highlights}
 ### PhD Students
@@ -395,9 +353,9 @@ Jutha was a Royal Thai scholar who investigated conflict resolution in Thai mari
 
 #### Alohi Nakachi (2018-2024)
 
-#### Lansing Perng (2018-2024)
-
+::: {.highlights}
 ### Master's of Science Students
+:::
 
 #### Shanna Grafeld (2015)
 
@@ -463,7 +421,9 @@ Kate went on to be a Grau Fellow with the University of Hawaiʻi Sea Grant Colle
 Courtney helped create programs for invasive algae removal and monitoring in Paiko Lagoon State Wildlife Sanctuary for Division of Forestry and Wildlife.
 She got a job post-graduation with Kahoʻolawe Island Restoration Council as a coastal specialist.
 
-#### Melissa Kunz ()
+#### Melissa Kunz
+
+#### Kayla Hodges (2023-2025)
 
 ::: {.highlights}
 ### Visiting Scholars/Interns
