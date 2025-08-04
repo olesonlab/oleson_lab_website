@@ -10,5 +10,11 @@
     "items": [
       "/support_pages/zoe_sidana_bunnath/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/ocean_acidification/index.html"
+    ]
   }
 ]

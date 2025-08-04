@@ -28,7 +28,7 @@ affiliations:
     postal-code: 96822
 date: 2025-08-04
 # bibliography: references.bib
-categories: [OAP, Ocean Acidification]
+categories: [Ocean Acidification Program (OAP), Ocean Acidification (OA)]
 image: coral_reefs.jpg
 ---
 
@@ -41,12 +41,14 @@ image: coral_reefs.jpg
 <center class="data-buttons">
 [{{< bi github >}} &nbsp; GitHub Repository](https://github.com/your-username/your-repo){.btn .btn-outline-light}
 &nbsp;&nbsp;&nbsp;&nbsp;
-[{{< fa globe >}} &nbsp; Website](https://your-website-url.com){.btn .btn-outline-light}
+[{{< fa globe >}} &nbsp; Project Website](https://your-website-url.com){.btn .btn-outline-light}
 <br>
 
 <img src="oap_logo.png" alt="NOAA OAP logo" height="80" />
 <img src="nrem_logo.png" alt="NREM logo" height="80" />
 <img src="soest_logo.png" alt="SOEST logo" height="125" />
 <img src="uh_logo.png"   alt="UH logo"   height="80" />
+
+This work, “<strong>Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago</strong>,” was supported by the NOAA Ocean Acidification Program under grant <strong>NOAA-OAR-OAP-2020-2006333</strong>.
 
 </center>

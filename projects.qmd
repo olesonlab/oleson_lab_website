@@ -1,6 +1,6 @@
 ---
 title: "{{< bi folder-open-fill >}} Projects"
-description: "As data are compiled for our projects, they will be posted here."
+# description: "Current and Past Projects"
 page-layout: full
 listing:
   contents: projects
@@ -11,8 +11,8 @@ listing:
   image-placeholder: assets/images/placeholder-image.png
   categories: numbered
   date-format: iso
-  grid-columns: 1
-  image-height: 450px
+  grid-columns: 3
+  image-height: 200px
 ---
   
   

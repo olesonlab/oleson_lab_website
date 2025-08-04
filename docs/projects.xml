@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Oleson Lab</title>
+<link>https://olesonlab.org/projects.html</link>
+<atom:link href="https://olesonlab.org/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.29</generator>
+<lastBuildDate>Mon, 04 Aug 2025 10:00:00 GMT</lastBuildDate>
+<item>
+  <title>Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago</title>
+  <link>https://olesonlab.org/projects/ocean_acidification/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+</section>
+<section id="overview-video" class="level2">
+<h2 class="anchored" data-anchor-id="overview-video">Overview Video</h2>
+<iframe src="https://drive.google.com/file/d/14qxww4uoOG12x6xr5rbggo0ixYMGitB_/preview" width="100%" height="480" allow="autoplay; encrypted-media" allowfullscreen="">
+</iframe>
+<center class="data-buttons">
+<p><a href="https://github.com/your-username/your-repo" class="btn btn-outline-light"> &nbsp; GitHub Repository</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://your-website-url.com" class="btn btn-outline-light"><i class="fa-solid fa-globe" aria-label="globe"></i> &nbsp; Project Website</a> <br></p>
+<p><img src="https://olesonlab.org/projects/ocean_acidification/oap_logo.png" alt="NOAA OAP logo" height="80"> <img src="https://olesonlab.org/projects/ocean_acidification/nrem_logo.png" alt="NREM logo" height="80"> <img src="https://olesonlab.org/projects/ocean_acidification/soest_logo.png" alt="SOEST logo" height="125"> <img src="https://olesonlab.org/projects/ocean_acidification/uh_logo.png" alt="UH logo" height="80"></p>
+<p>This work, “<strong>Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago</strong>,” was supported by the NOAA Ocean Acidification Program under grant <strong>NOAA-OAR-OAP-2020-2006333</strong>.</p>
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hošeková2025,
+  author = {Hošeková, Lucia and Perng, Lansing and Lowe Mackenzie,
+    Ashley and L. L. Oleson, Kirsten},
+  title = {Assessing {Current} and {Future} {Ocean} {Acidification} and
+    {Climate} {Vulnerabilities} {Along} the {Hawaiian} {Archipelago}},
+  date = {2025-08-04},
+  url = {https://olesonlab.org/projects/ocean_acidification/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hošeková2025" class="csl-entry quarto-appendix-citeas">
+Hošeková, Lucia, Lansing Perng, Ashley Lowe Mackenzie, and Kirsten L. L.
+Oleson. 2025. <span>“Assessing Current and Future Ocean Acidification
+and Climate Vulnerabilities Along the Hawaiian Archipelago.”</span>
+August 4, 2025. <a href="https://olesonlab.org/projects/ocean_acidification/">https://olesonlab.org/projects/ocean_acidification/</a>.
+</div></div></section></div> ]]></description>
+  <category>Ocean Acidification Program (OAP)</category>
+  <category>Ocean Acidification (OA)</category>
+  <guid>https://olesonlab.org/projects/ocean_acidification/</guid>
+  <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
+  <media:content url="https://olesonlab.org/projects/ocean_acidification/coral_reefs.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
