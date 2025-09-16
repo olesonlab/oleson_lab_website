@@ -10,7 +10,7 @@ We are a diverse and interdisciplinary group interested in developing management
 :::
 
 ::: {.index-img}
-<img src="/assets/images/2023_oleson-lab_group-photo.png" width="85%" class="team-img" />
+<img src="/assets/images/2023_oleson_lab_group_photo.png" width="85%" class="team-img" />
 :::
 
 :::

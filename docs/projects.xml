@@ -13,7 +13,7 @@
 <lastBuildDate>Mon, 04 Aug 2025 10:00:00 GMT</lastBuildDate>
 <item>
   <title>Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago</title>
-  <link>https://olesonlab.org/projects/ocean_acidification/</link>
+  <link>https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/</link>
   <description><![CDATA[ 
 
 
@@ -23,15 +23,18 @@
 
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Coral reefs form the backbone of Hawaiʻi’s nearshore ecosystems, supporting high biodiversity and delivering substantial ecological and economic benefits. Although they cover just 0.2% of the seafloor globally, Hawaiian coral reefs account for approximately 85% of all coral reefs in the United States. These ecosystems support about a quarter of all marine species and provide essential services, including fishery habitat, coastal protection, recreation, and tourism. According to one estimate, coral reefs in the Main Hawaiian Islands (MHI) generate roughly $800 million per year in value from fishing, recreation, and other amenities. Climate change poses growing threats to Hawaiʻi’s coral reefs. Two primary drivers of risk are <b>rising ocean temperatures</b> and <b>ocean acidification (OA)</b>.</p>
+<p>Assessing reef vulnerability and quantifying ecosystem degradation require spatially explicit analyses that capture both ecological dynamics and community-level impacts. However, much of our understanding comes from global models that fail to capture the fine-scale variability and local oceanographic conditions essential for Hawaiʻi, limiting the scientific foundation for effective management and policy decisions.</p>
+<p>Our study addresses this gap through integrated modeling. We combine high-resolution projections of OA and temperature with spatially explicit ecosystem modeling that tracks coral, fish, and fishery changes under three climate scenarios. These ecological projections are linked to fisheries and recreational reef use values, providing an integrated perspective on climate-driven impacts to both marine ecosystems and dependent communities. We also conduct a spatial vulnerability assessment, integrating exposure, sensitivity, and adaptive capacity to identify communities most at risk and inform targeted, scenario-based adaptation strategies across the MHI.</p>
 </section>
 <section id="overview-video" class="level2">
 <h2 class="anchored" data-anchor-id="overview-video">Overview Video</h2>
 <iframe src="https://drive.google.com/file/d/14qxww4uoOG12x6xr5rbggo0ixYMGitB_/preview" width="100%" height="480" allow="autoplay; encrypted-media" allowfullscreen="">
 </iframe>
 <center class="data-buttons">
-<p><a href="https://github.com/your-username/your-repo" class="btn btn-outline-light"> &nbsp; GitHub Repository</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://your-website-url.com" class="btn btn-outline-light"><i class="fa-solid fa-globe" aria-label="globe"></i> &nbsp; Project Website</a> <br></p>
-<p><img src="https://olesonlab.org/projects/ocean_acidification/oap_logo.png" alt="NOAA OAP logo" height="80"> <img src="https://olesonlab.org/projects/ocean_acidification/nrem_logo.png" alt="NREM logo" height="80"> <img src="https://olesonlab.org/projects/ocean_acidification/soest_logo.png" alt="SOEST logo" height="125"> <img src="https://olesonlab.org/projects/ocean_acidification/uh_logo.png" alt="UH logo" height="80"></p>
-<p>This work, “<strong>Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago</strong>,” was supported by the NOAA Ocean Acidification Program under grant <strong>NOAA-OAR-OAP-2020-2006333</strong>.</p>
+<p><a href="https://github.com/olesonlab/ocean_acidification" class="btn btn-outline-light"> &nbsp; GitHub Repository</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://olesonlab.github.io/ocean_acidification/" class="btn btn-outline-light"><i class="fa-solid fa-globe" aria-label="globe"></i> &nbsp; Project Website</a> <br></p>
+<p><img src="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/oap_logo.png" alt="NOAA OAP logo" height="80"> <img src="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/nrem_logo.png" alt="NREM logo" height="80"> <img src="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/soest_logo.png" alt="SOEST logo" height="125"> <img src="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/uh_logo.png" alt="UH logo" height="80"></p>
+This work is the result of research funded by the National Oceanic and Atmospheric Administration’s Ocean Acidification Program under award <strong>NA21OAR0170191</strong> to the University of Hawaiʻi at Mānoa.
 </center>
 
 
@@ -43,20 +46,86 @@
   title = {Assessing {Current} and {Future} {Ocean} {Acidification} and
     {Climate} {Vulnerabilities} {Along} the {Hawaiian} {Archipelago}},
   date = {2025-08-04},
-  url = {https://olesonlab.org/projects/ocean_acidification/},
+  url = {https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hošeková2025" class="csl-entry quarto-appendix-citeas">
 Hošeková, Lucia, Lansing Perng, Ashley Lowe Mackenzie, and Kirsten L. L.
 Oleson. 2025. <span>“Assessing Current and Future Ocean Acidification
 and Climate Vulnerabilities Along the Hawaiian Archipelago.”</span>
-August 4, 2025. <a href="https://olesonlab.org/projects/ocean_acidification/">https://olesonlab.org/projects/ocean_acidification/</a>.
+August 4, 2025. <a href="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/">https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/</a>.
 </div></div></section></div> ]]></description>
   <category>Ocean Acidification Program (OAP)</category>
   <category>Ocean Acidification (OA)</category>
-  <guid>https://olesonlab.org/projects/ocean_acidification/</guid>
+  <category>Oceanography Modeling</category>
+  <category>Ecosystem Modeling</category>
+  <category>Atlantis Model</category>
+  <category>Economic Impact</category>
+  <category>Social Vulnerability Assessment</category>
+  <category>Coral Reefs</category>
+  <category>Hawai‘i</category>
+  <category>Ecology</category>
+  <category>Environmental Health</category>
+  <guid>https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/</guid>
   <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
-  <media:content url="https://olesonlab.org/projects/ocean_acidification/coral_reefs.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/coral_reefs.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Linking land and sea through an ecological-economic model of coral reef recreation</title>
+  <link>https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Coastal zones are popular recreational areas that substantially contribute to social welfare. Managers can use information about specific environmental features that people appreciate, and how these might change under different management scenarios, to spatially target actions to areas of high current or potential value. We explored how snorkelers’ experience would be affected by separate and combined land and marine management actions in West Maui, Hawaiʻi, using a Bayesian Belief Network (BBN) and a spatially explicit ecosystem services model. The BBN simulates recreational attractiveness by combining snorkelers’ preferences for coastal features with experts’ opinions on ecological dynamics, snorkeler behavior, and management actions. A choice experiment with snorkelers elucidated their preferences for sites with better ecological and water-quality conditions. Linking the economic elicitation to the spatially explicit BBN to evaluate land-sea management scenarios provides specific guidance on where and how to act in West Maui to maximize ecosystem service returns. Improving coastal water quality through sediment runoff and cesspool effluent reductions, and enhancing coral reef ecosystem conditions, positively affected overall snorkeling attractiveness across the study area, but with differential results at specific sites. The highest improvements were attained through joint land-sea management, driven by strong effects of efforts to increase fish abundance and reduce sediment, however, management priorities at individual beaches varied.</p>
+<center class="data-buttons">
+<a href="https://doi.org/10.5066/P9RO57E8" class="btn btn-outline-light"><i class="fa-solid fa-file-arrow-down" aria-label="file-arrow-down"></i> &nbsp; Download Data</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://doi.org/10.1016/j.ecolecon.2020.106788" class="btn btn-outline-light"><i class="fa-solid fa-newspaper" aria-label="newspaper"></i> &nbsp; Read Article</a> <br><img src="https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/usgs-logo.png" id="logo" class="rounded img-fluid" style="width:40.0%">
+</center>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{l._l._oleson2020,
+  author = {L. L. Oleson, Kirsten and J. Bagstad, Kenneth and Fezzi,
+    Carlo and D. Barnes, Megan and K. Donovan, Mary and A. Falinski, Kim
+    and D. Gorospe, Kelvin and Htun, Hla and Lecky, Joey and Villa,
+    Ferdinando and M Wong, Tamara},
+  title = {Linking Land and Sea Through an Ecological-Economic Model of
+    Coral Reef Recreation},
+  date = {2020-07-30},
+  url = {https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-l._l._oleson2020" class="csl-entry quarto-appendix-citeas">
+L. L. Oleson, Kirsten, Kenneth J. Bagstad, Carlo Fezzi, Megan D. Barnes,
+Mary K. Donovan, Kim A. Falinski, Kelvin D. Gorospe, et al. 2020.
+<span>“Linking Land and Sea Through an Ecological-Economic Model of
+Coral Reef Recreation.”</span> July 30, 2020. <a href="https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/">https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/</a>.
+</div></div></section></div> ]]></description>
+  <category>USGS</category>
+  <category>Bayesian Belief Network</category>
+  <category>Coral Reefs</category>
+  <category>Land-Sea Interactions</category>
+  <category>Recreational Ecosystem Services</category>
+  <category>Hawai‘i</category>
+  <category>Region 7 USGS</category>
+  <category>Aquatic Biology</category>
+  <category>Ecology</category>
+  <category>Environmental Health</category>
+  <category>Hydrology</category>
+  <category>Land Use Change</category>
+  <category>Water Quality</category>
+  <category>Water Resources</category>
+  <category>Wildlife Biology</category>
+  <category>USGS Science Data Catalog (SDC)</category>
+  <guid>https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/</guid>
+  <pubDate>Thu, 30 Jul 2020 10:00:00 GMT</pubDate>
+  <media:content url="https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/map.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>
 </rss>

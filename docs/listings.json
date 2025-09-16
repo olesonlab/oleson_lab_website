@@ -1,20 +1,19 @@
 [
   {
     "listing": "/data.html",
-    "items": [
-      "/data/2020-07-30_usgs_oleson-et-al_data-release/index.html"
-    ]
-  },
-  {
-    "listing": "/support_our_research.html",
-    "items": [
-      "/support_pages/zoe_sidana_bunnath/index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/ocean_acidification/index.html"
+      "/projects/2025-08-04_oap_ocean_acidification/index.html",
+      "/projects/2020-07-30_usgs_oleson-et-al_data-release/index.html"
+    ]
+  },
+  {
+    "listing": "/trash/support_our_research.html",
+    "items": [
+      "/trash/support_pages/zoe_sidana_bunnath/index.html"
     ]
   }
 ]

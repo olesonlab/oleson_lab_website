@@ -11,7 +11,7 @@ listing:
   image-placeholder: assets/images/placeholder-image.png
   categories: numbered
   date-format: iso
-  grid-columns: 3
+  grid-columns: 2
   image-height: 200px
 ---
   

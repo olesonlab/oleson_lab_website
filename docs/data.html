@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -137,10 +137,7 @@ window.Quarto = {
 
 <link rel="alternate" type="application/rss+xml" title="Oleson Lab" href="data.xml" data-external="1"><meta property="og:title" content=" Data – Oleson Lab">
 <meta property="og:description" content="As data are compiled for our projects, they will be posted here.">
-<meta property="og:image" content="https://olesonlab.org/data/2020-07-30_usgs_oleson-et-al_data-release/map.png">
 <meta property="og:site_name" content="Oleson Lab Website">
-<meta property="og:image:height" content="596">
-<meta property="og:image:width" content="895">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -332,19 +329,9 @@ window.Quarto = {
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> <i class="bi bi-search" role="img">
-</i> 
-<span class="menu-text">Research</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> <i class="bi bi-book-fill" role="img">
 </i> 
 <span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./data.html" aria-current="page"> <i class="bi bi-bar-chart-line-fill" role="img">
-</i> 
-<span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"> <i class="bi bi-folder-fill" role="img">
@@ -387,7 +374,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXF1YXRpYyUyMEJpb2xvZ3k=">Aquatic Biology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmF5ZXNpYW4lMjBCZWxpZWYlMjBOZXR3b3Jr">Bayesian Belief Network <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29yYWwlMjBSZWVmcw==">Coral Reefs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWNvbG9neQ==">Ecology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW52aXJvbm1lbnRhbCUyMEhlYWx0aA==">Environmental Health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGF3YWklRTIlODAlOThp">Hawai‘i <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SHlkcm9sb2d5">Hydrology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGFuZCUyMFVzZSUyMENoYW5nZQ==">Land Use Change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGFuZC1TZWElMjBJbnRlcmFjdGlvbnM=">Land-Sea Interactions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVjcmVhdGlvbmFsJTIwRWNvc3lzdGVtJTIwU2VydmljZXM=">Recreational Ecosystem Services <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVnaW9uJTIwNyUyMFVTR1M=">Region 7 USGS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVNHUw==">USGS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVNHUyUyMFNjaWVuY2UlMjBEYXRhJTIwQ2F0YWxvZyUyMChTREMp">USGS Science Data Catalog (SDC) <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2F0ZXIlMjBRdWFsaXR5">Water Quality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2F0ZXIlMjBSZXNvdXJjZXM=">Water Resources <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2lsZGxpZmUlMjBCaW9sb2d5">Wildlife Biology <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -422,64 +409,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-categories="VVNHUyUyQ0JheWVzaWFuJTIwQmVsaWVmJTIwTmV0d29yayUyQ0NvcmFsJTIwUmVlZnMlMkNMYW5kLVNlYSUyMEludGVyYWN0aW9ucyUyQ1JlY3JlYXRpb25hbCUyMEVjb3N5c3RlbSUyMFNlcnZpY2VzJTJDSGF3YWklRTIlODAlOThpJTJDUmVnaW9uJTIwNyUyMFVTR1MlMkNBcXVhdGljJTIwQmlvbG9neSUyQ0Vjb2xvZ3klMkNFbnZpcm9ubWVudGFsJTIwSGVhbHRoJTJDSHlkcm9sb2d5JTJDTGFuZCUyMFVzZSUyMENoYW5nZSUyQ1dhdGVyJTIwUXVhbGl0eSUyQ1dhdGVyJTIwUmVzb3VyY2VzJTJDV2lsZGxpZmUlMjBCaW9sb2d5JTJDVVNHUyUyMFNjaWVuY2UlMjBEYXRhJTIwQ2F0YWxvZyUyMChTREMp" data-listing-date-sort="1596103200000" data-listing-file-modified-sort="1754312479271" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="227">
-<a href="./data/2020-07-30_usgs_oleson-et-al_data-release/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./data/2020-07-30_usgs_oleson-et-al_data-release/map.png" class="thumbnail-image card-img" style="height: 450px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Linking land and sea through an ecological-economic model of coral reef recreation
-</h5>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('VVNHUw=='); return false;">USGS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QmF5ZXNpYW4lMjBCZWxpZWYlMjBOZXR3b3Jr'); return false;">Bayesian Belief Network</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29yYWwlMjBSZWVmcw=='); return false;">Coral Reefs</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGFuZC1TZWElMjBJbnRlcmFjdGlvbnM='); return false;">Land-Sea Interactions</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVjcmVhdGlvbmFsJTIwRWNvc3lzdGVtJTIwU2VydmljZXM='); return false;">Recreational Ecosystem Services</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SGF3YWklRTIlODAlOThp'); return false;">Hawai‘i</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVnaW9uJTIwNyUyMFVTR1M='); return false;">Region 7 USGS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXF1YXRpYyUyMEJpb2xvZ3k='); return false;">Aquatic Biology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWNvbG9neQ=='); return false;">Ecology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEhlYWx0aA=='); return false;">Environmental Health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SHlkcm9sb2d5'); return false;">Hydrology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGFuZCUyMFVzZSUyMENoYW5nZQ=='); return false;">Land Use Change</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V2F0ZXIlMjBRdWFsaXR5'); return false;">Water Quality</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V2F0ZXIlMjBSZXNvdXJjZXM='); return false;">Water Resources</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('V2lsZGxpZmUlMjBCaW9sb2d5'); return false;">Wildlife Biology</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VVNHUyUyMFNjaWVuY2UlMjBEYXRhJTIwQ2F0YWxvZyUyMChTREMp'); return false;">USGS Science Data Catalog (SDC)</div>
-
-</div>
-<div class="card-text listing-description delink">
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-2020-07-30
-</div>
-</div>
-</div>
-</div></a>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->

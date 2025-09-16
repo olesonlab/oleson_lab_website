@@ -1,0 +1,59 @@
+---
+title: "Assessing Current and Future Ocean Acidification and Climate Vulnerabilities Along the Hawaiian Archipelago"
+description: " "
+authors:
+  - name: Lucia Hošeková
+    affiliations:
+      - ref: uh-manoa-nrem
+    orcid: 0000-0003-0242-7078
+  - name: Lansing Perng
+    affiliations:
+      - ref: uh-manoa-nrem
+  - name: Ashley Lowe Mackenzie
+    affiliations:
+      - ref: uh-manoa-nrem
+    url: https://scholar.google.com/citations?user=0PteQJcAAAAJ&amp=&hl=en
+  - name: Kirsten L. L. Oleson
+    affiliations:
+      - ref: uh-manoa-nrem
+    orcid: 0000-0002-7992-5051
+affiliations:
+  - id: uh-manoa-nrem
+    name: University of Hawaiʻi at Mānoa
+    department: Department of Natural Resources and Environmental Management
+    address: 1910 East West Road
+    city: Honolulu
+    region: HI
+    country: USA
+    postal-code: 96822
+date: 2025-08-04
+# bibliography: references.bib
+categories: [Ocean Acidification Program (OAP), Ocean Acidification (OA), Oceanography Modeling, Ecosystem Modeling, Atlantis Model, Economic Impact, Social Vulnerability Assessment, Coral Reefs,  Hawai‘i, Ecology, Environmental Health]
+image: coral_reefs.jpg
+---
+
+## Abstract
+
+Coral reefs form the backbone of Hawaiʻi’s nearshore ecosystems, supporting high biodiversity and delivering substantial ecological and economic benefits. Although they cover just 0.2% of the seafloor globally, Hawaiian coral reefs account for approximately 85% of all coral reefs in the United States. These ecosystems support about a quarter of all marine species and provide essential services, including fishery habitat, coastal protection, recreation, and tourism. According to one estimate, coral reefs in the Main Hawaiian Islands (MHI) generate roughly $800 million per year in value from fishing, recreation, and other amenities. Climate change poses growing threats to Hawaiʻi’s coral reefs. Two primary drivers of risk are <b>rising ocean temperatures</b> and <b>ocean acidification (OA)</b>.
+
+Assessing reef vulnerability and quantifying ecosystem degradation require spatially explicit analyses that capture both ecological dynamics and community-level impacts. However, much of our understanding comes from global models that fail to capture the fine-scale variability and local oceanographic conditions essential for Hawaiʻi, limiting the scientific foundation for effective management and policy decisions.
+
+Our study addresses this gap through integrated modeling. We combine high-resolution projections of OA and temperature with spatially explicit ecosystem modeling that tracks coral, fish, and fishery changes under three climate scenarios. These ecological projections are linked to fisheries and recreational reef use values, providing an integrated perspective on climate-driven impacts to both marine ecosystems and dependent communities. We also conduct a spatial vulnerability assessment, integrating exposure, sensitivity, and adaptive capacity to identify communities most at risk and inform targeted, scenario-based adaptation strategies across the MHI.
+
+## Overview Video
+
+<iframe src="https://drive.google.com/file/d/14qxww4uoOG12x6xr5rbggo0ixYMGitB_/preview" width="100%" height="480" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<center class="data-buttons">
+[{{< bi github >}} &nbsp; GitHub Repository](https://github.com/olesonlab/ocean_acidification){.btn .btn-outline-light}
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa globe >}} &nbsp; Project Website](https://olesonlab.github.io/ocean_acidification/){.btn .btn-outline-light}
+<br>
+
+<img src="oap_logo.png" alt="NOAA OAP logo" height="80" />
+<img src="nrem_logo.png" alt="NREM logo" height="80" />
+<img src="soest_logo.png" alt="SOEST logo" height="125" />
+<img src="uh_logo.png"   alt="UH logo"   height="80" />
+
+This work is the result of research funded by the National Oceanic and Atmospheric Administration's Ocean Acidification Program under award <strong>NA21OAR0170191</strong> to the University of Hawaiʻi at Mānoa.
+</center>

@@ -15,15 +15,9 @@ website:
       - href: team.qmd
         text: Team
         icon: people-fill
-      - href: research.qmd
-        text: Research
-        icon: search
       - href: publications.qmd
         text: Publications
         icon: book-fill
-      - href: data.qmd
-        text: Data
-        icon: bar-chart-line-fill
       - href: projects.qmd
         text: Projects
         icon: folder-fill

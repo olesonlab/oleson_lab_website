@@ -1,87 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://olesonlab.github.io/assets/placeholders/support_page_place_holder/index.html</loc>
-    <lastmod>2025-05-29T02:48:58.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/data.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/research.html</loc>
-    <lastmod>2025-05-22T22:20:00.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/support_pages/zoe_sidana_bunnath/index.html</loc>
-    <lastmod>2025-08-04T10:51:01.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/index.html</loc>
-    <lastmod>2025-05-22T22:20:00.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/contact.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/team.html</loc>
-    <lastmod>2025-08-04T11:47:17.963Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/publications.html</loc>
-    <lastmod>2025-08-04T11:47:00.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/data/2020-07-30_usgs_oleson-et-al_data-release/index.html</loc>
-    <lastmod>2025-05-22T22:20:00.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/support_our_research.html</loc>
-    <lastmod>2025-08-04T10:51:04.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.github.io/assets/placeholders/new_team_bio_placeholder.html</loc>
-    <lastmod>2025-05-23T01:08:12.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/data.html</loc>
-    <lastmod>2025-08-04T13:01:14.248Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/support_pages/zoe_sidana_bunnath/index.html</loc>
+    <loc>https://olesonlab.org/trash/support_pages/zoe_sidana_bunnath/index.html</loc>
     <lastmod>2025-08-04T13:01:18.114Z</lastmod>
   </url>
   <url>
-    <loc>https://olesonlab.org/projects/ocean_acidification/index.html</loc>
-    <lastmod>2025-08-04T13:14:02.063Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/assets/placeholders/support_page_place_holder/index.html</loc>
-    <lastmod>2025-08-04T13:01:19.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/assets/placeholders/new_team_bio_placeholder.html</loc>
-    <lastmod>2025-08-04T13:01:19.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/data/2020-07-30_usgs_oleson-et-al_data-release/index.html</loc>
-    <lastmod>2025-08-04T13:01:19.271Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/projects.html</loc>
-    <lastmod>2025-08-04T13:19:36.335Z</lastmod>
-  </url>
-  <url>
-    <loc>https://olesonlab.org/support_our_research.html</loc>
-    <lastmod>2025-08-04T13:01:14.237Z</lastmod>
+    <loc>https://olesonlab.org/trash/research.html</loc>
+    <lastmod>2025-08-04T13:01:14.225Z</lastmod>
   </url>
   <url>
     <loc>https://olesonlab.org/publications.html</loc>
     <lastmod>2025-08-04T13:01:14.148Z</lastmod>
   </url>
   <url>
+    <loc>https://olesonlab.org/projects/2025-08-04_oap_ocean_acidification/index.html</loc>
+    <lastmod>2025-09-16T18:07:20.265Z</lastmod>
+  </url>
+  <url>
     <loc>https://olesonlab.org/index.html</loc>
-    <lastmod>2025-08-04T13:01:14.128Z</lastmod>
+    <lastmod>2025-09-16T17:27:08.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/contact.html</loc>
+    <lastmod>2025-08-04T13:01:14.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/assets/placeholders/new_team_bio_placeholder.html</loc>
+    <lastmod>2025-09-16T17:47:51.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/assets/placeholders/support_page_place_holder/index.html</loc>
+    <lastmod>2025-08-04T13:01:19.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/data.html</loc>
+    <lastmod>2025-08-04T13:01:14.248Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/projects/2020-07-30_usgs_oleson-et-al_data-release/index.html</loc>
+    <lastmod>2025-08-04T13:01:19.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/projects.html</loc>
+    <lastmod>2025-09-16T18:09:37.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/team.html</loc>
+    <lastmod>2025-09-16T17:50:29.849Z</lastmod>
+  </url>
+  <url>
+    <loc>https://olesonlab.org/trash/support_our_research.html</loc>
+    <lastmod>2025-08-04T13:01:14.237Z</lastmod>
   </url>
 </urlset>

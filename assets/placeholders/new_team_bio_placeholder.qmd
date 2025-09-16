@@ -1,3 +1,4 @@
+<!-- Image left, text right -->
 #### Name <br>
 
 ::: columns
@@ -21,3 +22,25 @@
 :::
 
 <div class="divider"></div>
+
+<!-- Image right, text left -->
+::: columns
+::: {.columns}
+::: {.column #text}
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras vehicula, mi eget laoreet varius, libero justo cursus odio, nec dictum libero justo sit amet elit. Integer nec odio nec nisi cursus tincidunt.*
+
+<br><center>
+[{{< fa solid id-card size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands linkedin size=LARGE >}}]()
+&nbsp;&nbsp;&nbsp;&nbsp;
+[{{< fa brands github size=LARGE >}}]()
+</center>
+:::
+::: {.column #img-right}
+<center>
+<img src="/assets/placeholders/placeholder_image_circle.png" width="90%" class="team-img" />
+</center>
+:::
+:::
+:::
