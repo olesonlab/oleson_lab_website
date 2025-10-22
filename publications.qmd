@@ -7,7 +7,13 @@ format: html
 
 ### 2025
 
+Shellock, R.J., R.E. Thoms, P.A.S. James, T.G. Loureiro, C. Rosado, M. Swaleh, E. Kurniati, O. Lecuyer, C. Contreras, R. Arinda, **K.L.L. Oleson**, E.A. Buchary, et al. (2025). Social Accounts for the ocean: A path to inclusive and equitable ocean decision-making. *Environmental Science & Policy*, 173, 104221.
+
+[Article](https://doi-org.eres.library.manoa.hawaii.edu/10.1016/j.envsci.2025.104221){.btn .btn-outline-light}
+
 *Kamikawa, K.*, Peyton, K., & **Oleson, K.** (2025). Angler motivations and preferences when targeting bonefishes in Hawai’i. Pacific Science, 78(3), 251-260.
+
+[Article](https://bioone.org/journals/pacific-science/volume-78/issue-3/78.3.2/Angler-Motivations-and-Preferences-When-Targeting-Bonefishes-in-Hawaii/10.2984/78.3.2.short){.btn .btn-outline-light}
 
 ### 2024
 
@@ -15,13 +21,13 @@ format: html
 Guiding Fuzzy Cognitive Mapping With Structured Decision Making to Inform Complex Natural Resource Management Problems in Waiʻanae Hawaiʻi. 
 *Community Science*, *3*(2), e2023CSJ000060.
 
-[PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1029/2023CSJ000060){.btn .btn-outline-light}
+[Article](https://doi.org/10.1029/2023CSJ000060){.btn .btn-outline-light}
 
 Dugstad, A., A. Ceria, M. Comeros, **K.L.L. Oleson** (2024).
 Exploring the influence of activity participation on the economic value of nature-based recreation in the Sierra Nevada. 
 *Journal of Environmental Management*, *360*, 121081.
 
-[PDF](https://www.sciencedirect.com/science/article/pii/S0301479724010673/pdfft?md5=dd52f6271e9ea4f5806fd5d7b230dbe0&pid=1-s2.0-S0301479724010673-main.pdf){.btn .btn-outline-light}
+[Article](https://doi.org/10.1016/j.jenvman.2024.121081){.btn .btn-outline-light}
 
 *Perng, L. Y.*, K. M. Leong, M. Weijerman, **K.L.L. Oleson** (2024).
 A multi-decadal assessment of social thresholds and outcomes in marine social-ecological systems in Hawaiʻi. 
@@ -41,13 +47,13 @@ The economic value of coral reefs: Climate change impacts and spatial targeting 
 Friedlander, A.M., A. Bukurrou, A. Filous, C.M. Karanasson, H. Koike, S. Koshiba, G. Mereb, V. Nestor, **K.L.L. Oleson**, D. Olsudong, J. Oruetamor, E.I. Otto, K. Polloi, G. Rengiil, E. Tellei, Y. Golbuu (2023).
 Assessing and managing charismatic marine megafauna in Palau: Bumphead parrotfish (Bolbometopon muricatum) and Napolean wrasse (Cheilinus undulatus).
 
-[PDF](https://www.researchgate.net/publication/368875176_Assessing_and_managing_charismatic_marine_megafauna_in_Palau_Bumphead_parrotfish_Bolbometopon_muricatum_and_Napoleon_wrasse_Cheilinus_undulatus#read){.btn .btn-outline-light}
+[Article](https://doi.org/10.1002/aqc.3929){.btn .btn-outline-light}
 
 Perng, L.Y., J. Walden, K.M. Leong, G.S. DePiper, C. Speir, S. Blake, K. Norman, S. Kasperski, M. Weijerman, **K.L.L. Oleson** (2023).
 Identifying social thresholds and measuring social achievement in social-ecological systems: A cross-regional comparison of fisheries in the United States.
 *Marine Policy*, *152*, p.105595.
 
-[PDF](https://www.sciencedirect.com/science/article/pii/S0308597X23001227/pdfft?md5=55761b4942c1517e91eebad09da9c4c7&pid=1-s2.0-S0308597X23001227-main.pdf){.btn .btn-outline-light}
+[Article](https://doi.org/10.1016/j.marpol.2023.105595){.btn .btn-outline-light}
 
 **Oleson, K.L.L.**, M.D. Barnes, A. Fung, W. Goodell, T.A. Oliver, R. Whittier, and R.
 Babcock (2023).
@@ -59,7 +65,7 @@ Trade-offs across values in cesspool management highlight challenges to policy m
 Seipp, K.Q., T. Maurer, M. Elias, P. Saska, C. Keske, **K.L.L. Oleson**, B.N. Egoh, R. Cleveland, C. Nyelele, N. Goncalves, K. Hemes, P. Wyrsch, D. Lewis, M.G. Chung, H. Gua, M. Conklin, R. Bales (2023).
 A multibenefit framework for funding forest management implementation in fire-driven ecosystems across the Western US. *Journal of Environmental Management*.
 
-[PDF](https://www.sciencedirect.com/science/article/pii/S0301479723010587/pdfft?md5=07a57a7fd4e1b905efe163190f54af77&pid=1-s2.0-S0301479723010587-main.pdf){.btn .btn-outline-light}
+[Article](https://doi.org/10.1016/j.jenvman.2023.118270){.btn .btn-outline-light}
 
 ### 2022
 
@@ -75,7 +81,7 @@ Bagstad, K.J., J.C. Ingram, C.D. Shapiro, A. La Notte, J. Maes, S. Vallecillo, C
 Lessons learned from development of natural capital accounts in the United States and European Union.
 *Ecosystem Services. 52: 101359*.
 
-[PDF](https://www.sciencedirect.com/science/article/pii/S2212041621001170/pdfft?md5=f42a3e65f481fd38c62adb4ceb321b70&pid=1-s2.0-S2212041621001170-main.pdf){.btn .btn-outline-light}
+[Article](https://doi.org/10.1016/j.ecoser.2021.101359){.btn .btn-outline-light}
 
 *Hume, A.*, J. Leape, **K.L.L. Oleson**, E. Polk, K. Chand, R. Dunbar (2021).
 Towards an ocean-based large ocean states country classification.
@@ -318,7 +324,7 @@ Tallis, H., J. Lubchenco, ..., **K.L.L. Oleson**, et al. (2014).
 A call for inclusive conservation.
 *Nature* 515:27-28.
 
-[PDF](https://www.researchgate.net/publication/267870726_Working_together_A_call_for_inclusive_conservation#read){.btn .btn-outline-light}
+[Article](https://www.researchgate.net/publication/267870726_Working_together_A_call_for_inclusive_conservation){.btn .btn-outline-light}
 
 ### 2013
 
@@ -413,7 +419,7 @@ In *Seascape Ecology: Taking landscape ecology into the sea*, S.J.
 Pittman (Ed.).
 West Sussex:Wiley**.**
 
-[PDF](https://www.researchgate.net/publication/320866384_Chapter_11_Linking_Landscape_and_Seascape_Conditions_Science_Tools_and_Management#read){.btn .btn-outline-light}
+[Chapter](https://www.researchgate.net/publication/320866384_Chapter_11_Linking_Landscape_and_Seascape_Conditions_Science_Tools_and_Management){.btn .btn-outline-light}
 
 ### 2012
 
@@ -441,7 +447,7 @@ In E. Au, K. Lam, T. Zhu, M. Partidario (Eds.), *International Experience on Str
 Geog.
 and Resource Mgmt., The Chinese University of Hong Kong, Hong Kong:China.
 
-[PDF](https://www.commissiemer.nl/docs/mer/diversen/international_experience_on_sea.pdf#page=125){.btn .btn-outline-light}
+[Chapter](https://www.commissiemer.nl/docs/mer/diversen/international_experience_on_sea.pdf#page=125){.btn .btn-outline-light}
 
 ## Refereed Technical Reports
 
